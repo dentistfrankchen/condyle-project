@@ -1,0 +1,355 @@
+﻿filename,Osteophyte_Formation,Osteophyte_Formation_raw
+054.png,0,"**Anterior surface of the condyle (osteophytes):**  
+- The anterior cortical outline appears smooth and continuous, without a clear bony outgrowth or beak-like projection suggestive of an osteophyte.
+
+**Superior surface of the condyle (erosions/morphologic irregularities):**  
+- The superior cortical surface appears largely intact on this slice, without a definite focal cortical break, crater-like depression, or irregularity consistent with erosion.  
+- No convincing abnormal concavity is evident here.
+
+**Medullary space (subchondral cyst-like radiolucencies):**  
+- The internal trabecular pattern/medullary space does not show a discrete, well-defined radiolucent cavity suggestive of a subchondral cyst on this image.
+
+**Likelihood of pathological bony changes (>50%?):**  
+**no**"
+076.png,1,"**Anterior surface of the condyle (osteophytes):**  
+- There appears to be a small beak-like bony prominence along the anterior margin of the condylar head/neck junction, compatible with an **early osteophyte** rather than a smooth physiologic contour.
+
+**Superior surface of the condyle (erosions / surface irregularity):**  
+- The superior cortical outline is **not uniformly smooth** and shows **focal contour irregularity/flattening**. This appearance is more consistent with **degenerative surface change** than a normal rounded condylar roof.
+
+**Medullary space (subchondral cyst-like radiolucencies):**  
+- No definite, well-circumscribed **subchondral cyst-like radiolucency** is convincingly identified on this provided slice; trabeculation appears generally preserved (assessment limited by single image).
+
+**Likelihood of pathological bony changes in the TMJ:**  
+Given the **anterior marginal outgrowth** and **superior surface irregularity/flattening**, the probability of pathological bony change is **>50%**.
+
+**Answer: yes**"
+10.png,1,"**Anterior surface of the condyle (osteophytes):**  
+There is **suggestion of an anterior bony prominence/beaking** along the anterior condylar contour, compatible with a **small osteophyte** rather than a smooth convex outline.
+
+**Superior surface of the condyle (erosions/morphologic irregularity):**  
+The **superior cortical outline is not uniformly smooth** and appears **irregular/flattened with focal contour interruption**, which is suspicious for **erosive change or surface remodeling** rather than a pristine cortical cap.
+
+**Medullary space (subchondral cyst-like radiolucencies):**  
+Within the condylar head/subchondral region, there is **a relatively more radiolucent focus** compared with surrounding trabeculation, raising concern for a **small cyst-like/subchondral defect**, though image quality and single-slice limitation reduce certainty.
+
+**Overall likelihood of pathological bony changes (degenerative TMJ osseous change):**  
+Given the combined presence of **anterior beaking/osteophyte tendency** and **superior surface irregularity (possible erosion/remodeling)**, the probability of pathological bony changes is **>50%**.
+
+**Answer:** **yes**"
+104.png,0,"**Anterior surface of the condyle (osteophytes):** No definite marginal bony outgrowth/beaking is visible on the anterior aspect in this slice.
+
+**Superior surface of the condyle (erosions/morphologic irregularity):** The superior cortical outline appears generally preserved without a clear, focal cortical break or crater-like depression consistent with a definite erosion.
+
+**Medullary space (subchondral cysts):** No discrete, well-defined radiolucent (cyst-like) subchondral lesion is evident within the condylar head.
+
+**Likelihood of pathological bony changes in the TMJ:** **no**"
+15-1.png,0,"**Anterior surface of the condyle (osteophytes):**  
+No clear anterior bony outgrowth/beaking is evident on this slice. The anterior contour appears relatively smooth without a definite projecting osteophyte.
+
+**Superior surface of the condyle (erosions / irregularities):**  
+The superior cortical outline appears largely continuous on this image. There is no definite focal cortical break or punched-out depression that would confidently indicate erosion (at most, very mild surface undulation that could also be due to slice angle/voxel noise).
+
+**Medullary space (subchondral cysts):**  
+No distinct, well-demarcated radiolucent “cyst-like” area is identified within the condylar head on this slice.
+
+**Likelihood of pathological bony changes (>50%?):**  
+Given the absence of a definite osteophyte, definite erosion, or definite subchondral cyst on this provided image, the probability of pathologic bony change is **<50%**.
+
+**Answer:** **no**"
+2.png,0,"**Anterior surface of the condyle (osteophytes):**  
+No clear marginal bony outgrowth or “beaking” is evident along the anterior contour on this slice. The anterior cortical outline appears smooth.
+
+**Superior surface of the condyle (erosions / irregularity):**  
+The superior cortical outline looks largely continuous without a definite focal cortical break or crater-like depression. There may be mild flattening, but no convincing erosion is seen on this image alone.
+
+**Medullary space (subchondral cyst-like radiolucencies):**  
+No well-defined, rounded radiolucent defects consistent with subchondral cysts are apparent. Trabecular pattern appears within expected limits on this view.
+
+**Likelihood of pathological bony changes in the TMJ:** **no**"
+21-2.png,1,"**Anterior surface of the condyle (osteophytes):**  
+There appears to be a small anterior bony beaking/outgrowth consistent with an **osteophyte**.
+
+**Superior surface of the condyle (erosions / surface irregularities):**  
+The superior cortical outline looks **irregular with focal contour disruption/flattening**, which is suggestive of **erosive/degenerative remodeling** rather than a smooth, intact cortex.
+
+**Medullary space (subchondral cyst-like radiolucencies):**  
+No **definite** well-circumscribed intraosseous radiolucent cavity is clearly demonstrated on this slice; internal trabeculation is present without a convincing subchondral cyst.
+
+**Likelihood of pathological bony changes in the TMJ:** **yes**"
+24.png,1,"**Anterior surface of the condyle (osteophytes):**  
+- The anterior contour appears **mildly beaked/irregular**, suggesting a **small marginal outgrowth** consistent with an **early osteophyte**.
+
+**Superior surface of the condyle (erosions/morphologic irregularity):**  
+- The superior cortical outline appears **flattened with focal surface irregularity**, which is **suspicious for erosive/remodeling change** rather than a uniformly smooth cortical cap.
+
+**Medullary space (subchondral cyst-like radiolucencies):**  
+- There are **small, focal radiolucent areas** in the subchondral/medullary region that could represent **early subchondral cystic change**, though this is limited by the single-slice view and image resolution.
+
+**Overall likelihood of pathological bony changes in the TMJ:** **Yes** (greater than 50% probability based on the above features)."
+26-1.png,0,"**Caveat:** This is a single CBCT slice/crop; definitive TMJ osseous diagnosis requires multiplanar review (sagittal/coronal/axial), both joints, and assessment across multiple contiguous slices.
+
+## 1) Anterior surface of the condyle (osteophytes)
+- The anterior contour of the condylar head appears **smooth** without a definite **beaked bony outgrowth**.
+- **No clear osteophyte** is evident on this view.
+
+## 2) Superior surface of the condyle (erosions/morphologic irregularities)
+- The superior cortical outline appears **continuous**.
+- There is **no convincing focal cortical break, crater-like depression, or ragged margin** to suggest an erosion on this slice.
+- Mild **flattening** can be a normal variant or adaptive remodeling; on this image it is **not clearly pathologic**.
+
+## 3) Medullary space (subchondral cysts/cyst-like radiolucencies)
+- The medullary trabecular pattern is present.
+- **No discrete, well-defined radiolucent cavity** consistent with a subchondral cyst is seen.
+
+## Likelihood of pathological bony changes in the TMJ
+- Based on the features visible in this image, the likelihood of pathological osseous change (osteophyte/erosion/subchondral cyst) is **< 50%**.
+
+**Answer: no**"
+38.png,1,"**Anterior surface of the condyle (osteophytes):**  
+- No definite beak-like bony outgrowth is clearly visualized on the anterior aspect in this slice.
+
+**Superior surface of the condyle (erosions/morphologic irregularity):**  
+- The superior cortical outline appears **irregular/flattened with possible focal cortical disruption**, which is suspicious for **erosive/degenerative change** rather than a smooth, uniformly corticated surface.
+
+**Medullary space (subchondral cyst-like radiolucencies):**  
+- No well-defined, round/ovoid **subchondral cyst** is confidently identified here; marrow trabeculation looks somewhat heterogeneous but **not diagnostic** for cystic change on this single view.
+
+**Overall likelihood of pathological bony changes (degenerative changes):**  
+- Given the **superior surface irregularity/possible erosion**, the probability of pathologic bony change is **>50%**.
+
+**Answer:** **yes**"
+39.png,1,"- **Anterior surface of the condyle (osteophytes):** There appears to be a small anterior bony projection/beaking compatible with an **osteophyte**.  
+- **Superior surface of the condyle (erosions/morphologic irregularity):** The superior cortical outline looks **irregular with a shallow concavity/flattening**, suspicious for **erosive/degenerative change** rather than a smooth, uniformly convex surface.  
+- **Medullary space (subchondral cyst-like radiolucencies):** No definite, well-circumscribed **subchondral cyst-like radiolucency** is clearly identifiable on this single view, though evaluation is limited without multiplanar/adjacent slices.
+
+**Likelihood of pathological bony changes in the TMJ:** **Yes** (greater than 50% probability, based primarily on suspected anterior osteophyte formation and superior surface irregularity/possible erosion)."
+40.png,1,"**Anterior surface of the condyle (osteophytes):**  
+There appears to be a small bony protuberance/“beaking” along the anterior aspect of the condylar head/neck region, which is **suggestive of an osteophyte** rather than a smooth, rounded anterior contour.
+
+**Superior surface of the condyle (erosions/morphologic irregularity):**  
+The superior articular cortical outline looks **irregular with loss of a smooth convex contour**, consistent with **surface remodeling and possible erosive change** (at least mild cortical irregularity).
+
+**Medullary space (subchondral cysts):**  
+Within the visible cancellous bone, I do **not** see a well-defined, rounded **radiolucent** focus with a corticated margin that would strongly indicate a subchondral cyst on this slice.
+
+**Overall likelihood of pathological bony TMJ changes:** The presence of an anterior osteophyte-like projection and superior cortical irregularity makes **degenerative/pathological bony change more likely than not**.
+
+**Answer:** **yes**"
+41.png,1,"- **Anterior surface of the condyle (osteophytes):** The anterior-superior contour appears mildly **beaked/prominent**, consistent with a **small osteophytic outgrowth** rather than a smooth convex margin.  
+- **Superior surface of the condyle (erosions/morphologic irregularity):** The superior cortical outline looks **irregular with subtle surface undermining/flattening**, suggestive of **erosive change** rather than a uniformly smooth, intact cortex.  
+- **Medullary space (subchondral cysts):** No definite **well-circumscribed radiolucent (cyst-like) cavity** is evident within the condylar head on this slice.
+
+**Likelihood of pathological bony TMJ changes:** **Yes** (probability > 50%)."
+43.png,1,"**Anterior surface of the condyle (osteophytes):**  
+There is a subtle beak-like bony prominence along the anterior aspect of the condylar head/neck region, which is suspicious for an **anterior osteophyte** rather than a smooth physiologic contour.
+
+**Superior surface of the condyle (erosions/morphologic irregularity):**  
+The superior cortical outline is **not smoothly convex**; it appears **flattened with mild surface irregularity**, compatible with **early erosive/degenerative change** (or remodeling with cortical disruption).
+
+**Medullary space (subchondral cyst-like radiolucencies):**  
+Within the condylar head there are **small focal radiolucent areas** relative to surrounding trabeculation that could represent **early subchondral cystic change**, though confirmation would require reviewing adjacent slices.
+
+**Likelihood of pathological bony changes in the TMJ:** **yes**"
+5.png,1,"**Anterior surface of the condyle (osteophytes):**  
+- The anterior contour shows a mild beak-like bony prominence compatible with a small **anterior osteophyte** (outgrowth), rather than a smoothly rounded anterior margin.
+
+**Superior surface of the condyle (erosions / irregularity):**  
+- The superior cortical outline appears **irregular/flattened** with a suggestion of **surface discontinuity/undulation**, which is more consistent with **early erosive or degenerative remodeling** than a uniformly smooth cortex.
+
+**Medullary space (subchondral cyst-like radiolucencies):**  
+- There is **no clear, well-circumscribed radiolucent (cyst-like) lesion** definitively seen within the condylar head on this provided slice. Internal trabeculation is present without an obvious focal subchondral cavity.
+
+**Overall likelihood of pathological bony TMJ changes:**  
+- Given the **probable anterior osteophyte** and **superior surface irregularity/flattening**, the likelihood of degenerative/pathological bony change is **>50%**.
+
+**Answer:** **yes**"
+51.png,0,"**Anterior surface of the condyle (osteophytes):**  
+No definite bony outgrowth/spur formation is evident along the anterior condylar surface on this slice.
+
+**Superior surface of the condyle (erosions/morphologic irregularity):**  
+The superior cortical outline appears generally smooth and continuous without a clear focal cortical break, crater-like defect, or irregular depression suggestive of erosion.
+
+**Medullary space (subchondral cyst-like radiolucencies):**  
+No discrete, well-defined radiolucent (cyst-like) areas are seen within the condylar marrow space on this view.
+
+**Likelihood of pathological bony TMJ changes (based on the requested features):** **no**"
+6.png,0,"**Anterior surface of the condyle (osteophytes):**  
+- The anterior contour appears **smooth without a definite bony outgrowth/beaking**. No clear osteophyte is identified on this slice.
+
+**Superior surface of the condyle (erosions/morphologic irregularities):**  
+- The superior cortical outline appears **generally continuous and rounded**. I do **not** see a convincing focal cortical break, crater-like defect, or flattening that would strongly suggest an erosion on this image.
+
+**Medullary space (subchondral cyst-like radiolucencies):**  
+- There is a **small, round radiolucent focus** within the condylar medullary space. On a single slice, this could represent a **small marrow space/channel** rather than a true degenerative **subchondral cyst**, and it is **not clearly subcortical** or accompanied by other degenerative features here.
+
+**Overall likelihood of pathological bony TMJ changes (based on this image):**  
+- Given the **absence of definite osteophytes and erosions**, and only an **equivocal small intramedullary lucency**, the probability of pathologic bony change is **< 50%**.
+
+**Answer:** **no**"
+62.png,1,"### Anterior surface of the condyle (osteophytes)
+- The anterior contour shows a subtle beak-like/irregular bony prominence rather than a smooth rounded outline, which is **suspicious for a small osteophyte**.
+
+### Superior surface of the condyle (erosions / irregularity)
+- The superior cortical margin appears **irregular and not smoothly corticated**, with **surface unevenness/flattening** consistent with **erosive or degenerative remodeling-type change** rather than a uniformly intact cortex.
+
+### Medullary space (subchondral cyst-like radiolucencies)
+- There is **suggestion of a small subcortical/medullary radiolucent area** beneath the articular surface, which can be compatible with a **subchondral cyst**, though confidence is limited from this single, low-resolution slice.
+
+### Likelihood of pathological bony changes (overall)
+Given the combined presence of (1) anterior bony outgrowth suspicion and (2) superior surface irregularity/possible erosion (with possible subchondral radiolucency), the probability of pathological bony TMJ change is **>50%**.
+
+**yes**"
+63.png,1,"**Anterior surface of the condyle (osteophytes):**  
+- The anterior contour shows a **mild beak-like cortical prominence**, compatible with a **small osteophyte** rather than a smooth, rounded anterior margin.
+
+**Superior surface of the condyle (erosions / morphological irregularities):**  
+- The superior cortical outline appears **irregular with subtle surface undulation/flattening**, suggesting **early erosive or remodeling-type change** rather than a uniformly smooth cortex.
+
+**Medullary space (subchondral cysts / radiolucencies):**  
+- The internal trabecular pattern does **not show a well-defined, rounded radiolucent cavity** with a sclerotic rim. **No convincing subchondral cyst** is evident on this slice.
+
+**Overall likelihood of pathological bony changes (degenerative-type changes):**  
+- Given the **probable small anterior osteophyte** and **superior cortical irregularity/flattening**, the probability of pathological bony change is **>50%**.
+
+**Answer: yes**"
+64.png,1,"**Anterior surface of the condyle (osteophytes):**  
+There appears to be a **small anterior beak-like bony projection** consistent with a **marginal osteophyte** rather than a smooth, rounded anterior contour.
+
+**Superior surface of the condyle (erosions/morphologic irregularity):**  
+The superior articular surface shows **loss of a uniformly convex contour with flattening/irregularity**. This appearance is **suggestive of degenerative remodeling and possible superficial cortical irregularity** (erosive-type change), although assessment is limited by this single slice.
+
+**Medullary space (subchondral cyst-like radiolucencies):**  
+No **well-defined, round/ovoid subchondral radiolucency** is clearly identified on this image. The trabecular pattern looks somewhat heterogeneous, but **a discrete cyst-like lesion is not confidently seen** here.
+
+**Overall likelihood of pathological bony changes in the TMJ:**  
+Given the **probable anterior marginal osteophyte** and **superior surface flattening/irregularity**, the likelihood of pathological bony change (degenerative bony change) is **>50%**.
+
+**Answer:** **yes**"
+71.png,0,"**Anterior surface of the condyle (osteophytes):**  
+- No definite bony outgrowth/spur formation is evident along the anterior contour of the condylar head/neck in this slice.
+
+**Superior surface of the condyle (erosions/morphologic irregularity):**  
+- The superior cortical outline appears generally smooth and continuous without a clear focal cortical break, crater-like defect, or definite erosive depression. Mild contour variation/flattening can be a normal variant and is not, here, convincingly erosive.
+
+**Medullary space (subchondral cyst-like radiolucencies):**  
+- No well-defined rounded radiolucent cavity within the subchondral/medullary bone is identified. Trabecular pattern appears without a discrete cyst-like defect.
+
+**Likelihood of pathological bony TMJ changes (>50%?):**  
+**no**"
+78.png,1,"**Anterior surface of the condyle (osteophytes):**  
+There appears to be **an anterior “beaking”/bony outgrowth** at the anterosuperior aspect of the condylar head, consistent with a **small osteophyte** rather than a smooth rounded contour.
+
+**Superior surface of the condyle (erosions/morphologic irregularities):**  
+The **superior cortical outline is not uniformly smooth** and shows **flattening with focal irregularity/undulation**, which is **compatible with early erosive/remodeling-type change** rather than a pristine convex surface.
+
+**Medullary space (subchondral cysts):**  
+Within the condylar head/neck medullary bone, I do **not** see a **well-defined radiolucent (cyst-like) subchondral defect** on this slice. Trabeculation appears relatively uniform for the provided view.
+
+**Overall likelihood of pathological bony TMJ change (based on this image):**  
+Given the **probable anterior osteophyte** and **superior surface irregularity/flattening**, the likelihood of pathological bony change is **>50%**.
+
+**Answer:** **yes**"
+84.png,1,"**Note:** This is an interpretation of a single provided CBCT slice only; definitive TMJ bony diagnosis requires full multiplanar review (sagittal/coronal/axial), both joints, and clinical correlation.
+
+## 1) Anterior surface of the condyle (osteophytes)
+- The anterior contour of the condylar head/neck junction appears **not smoothly convex** and suggests a **small bony outgrowth/spur-like prominence**, which is **compatible with an early osteophyte** rather than a normal rounded margin.
+
+## 2) Superior surface of the condyle (erosions / surface irregularity)
+- The superior cortical outline appears **irregular with subtle surface unevenness/flattening** rather than a continuous, uniformly corticated dome.
+- This appearance is **suspicious for superficial erosive/remodeling change** (morphologic irregularity), though the degree is mild on this single slice.
+
+## 3) Medullary space (subchondral cyst-like radiolucencies)
+- Within the subchondral/medullary region near the superior aspect of the condyle, there are **focal radiolucent areas** that appear **cyst-like (subchondral cyst/sclerosis–cyst pattern)** rather than uniform trabeculation.
+
+## Likelihood of pathological bony changes (>50%?)
+Given the **combined presence of**:
+- spur-like anterior contour change (osteophyte),
+- superior surface irregularity (erosion/remodeling),
+- and medullary radiolucent foci (possible subchondral cysts),
+
+the probability of **pathological bony change (degenerative/remodeling TMJ change)** is **>50%**.
+
+**Answer: yes**"
+85.png,1,"**Anterior surface of the condyle (osteophytes):**  
+There appears to be a small bony outgrowth/beaking at the anterosuperior/anterior margin of the condylar head, compatible with an **incipient osteophyte**.
+
+**Superior surface of the condyle (erosions/irregularity):**  
+The superior cortical outline is **not smoothly convex**; it shows **mild surface irregularity/flattening with a small focal cortical discontinuity-like area**, which is suspicious for **early erosive change** rather than a purely normal contour.
+
+**Medullary space (subchondral cyst-like radiolucencies):**  
+No clearly **well-circumscribed** subchondral radiolucent cavity is identified on this slice; the internal appearance is largely consistent with trabecular pattern without a definite cyst.
+
+**Overall likelihood of pathological bony TMJ change:**  
+Given the suspected **anterior osteophyte** and **superior surface irregularity/possible erosion**, the probability of pathological bony change is **>50%**.
+
+**Answer: yes**"
+86.png,0,"- **Anterior surface of the condyle (osteophytes):** No definite osteophytic outgrowth is evident on this section; the anterior cortical outline appears smooth without a clear beaking/spur.
+- **Superior surface of the condyle (erosions/morphologic irregularity):** The superior cortical margin appears largely continuous and smooth on this image, without a clear focal cortical break or crater-like depression consistent with erosion.
+- **Medullary space (subchondral cyst-like radiolucencies):** No discrete, well-defined radiolucent (cyst-like) areas are identified within the condylar medullary bone on this slice.
+
+**Likelihood of pathological bony TMJ changes (>50%?): no.**"
+87.png,1,"- **Anterior surface of the condyle (osteophytes):** There appears to be **marginal beaking/spurring at the anterosuperior contour**, consistent with a small **osteophyte** rather than a smooth convex outline.  
+- **Superior surface of the condyle (erosions/irregularities):** The **superior cortical outline looks mildly irregular/flattened** with a suggestion of **shallow surface depression**, which is compatible with **early erosive/degenerative change** (though assessment is limited by this single slice).  
+- **Medullary space (subchondral cyst-like radiolucencies):** **No definite discrete, well-circumscribed radiolucent “cyst-like” area** is clearly identifiable in the medullary/subchondral region on this image.
+
+**Likelihood of pathological bony changes in the TMJ:** **yes**"
+89.png,0,"- **Anterior surface of the condyle (osteophytes):** No definite bony outgrowth/beaking is visible along the anterior contour. The cortical outline appears smooth.
+- **Superior surface of the condyle (erosions/irregularity):** The superior cortical surface appears largely continuous without a clear focal cortical break or crater-like depression. No convincing erosive defect is seen on this slice.
+- **Medullary space (subchondral cysts):** No well-defined, round/oval radiolucent lesion with a corticated rim (typical of a subchondral cyst) is evident within the condylar head on this image.
+
+**Likelihood of pathological bony changes in the TMJ:** **no**"
+90.png,0,"**Anterior surface of the condyle (osteophytes):**  
+The anterior contour appears smooth without a definite beak-like bony outgrowth. No clear osteophyte is identified on this slice.
+
+**Superior surface of the condyle (erosions/morphologic irregularities):**  
+The superior cortical outline looks largely continuous and smooth. I do not see a convincing focal cortical break or crater-like depression consistent with erosion on this view.
+
+**Medullary space (subchondral cysts/cyst-like radiolucencies):**  
+The trabecular/medullary bone shows no discrete, well-defined radiolucent cavity suggestive of a subchondral cyst.
+
+**Likelihood of pathological bony changes in the TMJ (>50%?):** **no**"
+91.png,1,"- **Anterior surface of the condyle (osteophytes):** No definite anterior marginal bony outgrowth is evident on this slice; the anterior contour appears generally smooth without a clear “beaking” osteophyte.  
+- **Superior surface of the condyle (erosions/morphologic irregularity):** The superior cortical outline appears **irregular/flattened with a focal contour disruption**, which is compatible with **erosive/degenerative surface change** rather than a uniformly smooth, convex cortex.  
+- **Medullary space (subchondral cyst-like radiolucencies):** No well-defined, rounded **radiolucent** cavity suggestive of a subchondral cyst is clearly seen; trabecular pattern appears relatively uniform on this view.
+
+**Likelihood of pathological bony changes in the TMJ:** Given the **superior surface irregularity/flattening**, the probability is **>50%**.
+
+**Answer:** **yes**"
+94.png,1,"**Anterior surface of the condyle (osteophytes):**  
+- The anterior contour of the condylar head shows **beaking/outgrowth compatible with a small osteophyte** rather than a smooth rounded margin.
+
+**Superior surface of the condyle (erosions / surface irregularity):**  
+- The superior cortical outline appears **flattened and mildly irregular**, with a suggestion of **cortical discontinuity/undulation** consistent with **early erosive/degenerative change** rather than a uniformly smooth cortex.
+
+**Medullary space (subchondral cyst-like radiolucencies):**  
+- Within the condylar head, there is **no convincing, well-defined round/ovoid radiolucent focus** to confidently call a subchondral cyst on this slice (trabecular pattern appears present without a discrete cystic cavity).
+
+**Likelihood of pathological bony changes in the TMJ:**  
+- Given the **probable anterior osteophyte** and **superior surface irregularity/flattening**, the likelihood is **>50%**.
+
+**Answer:** **yes**"
+97.png,1,"**Anterior surface of the condyle (osteophytes):**  
+No definite marginal bony outgrowth/beaking is clearly seen on the anterior contour in this slice.
+
+**Superior surface of the condyle (erosions/morphologic irregularity):**  
+The superior cortical outline appears **irregular with a subtle concavity/flattening**, which is more consistent with **early erosive/degenerative change** than a smooth, intact cortex.
+
+**Medullary space (subchondral cysts):**  
+No convincing, well-defined **intraosseous radiolucent “cyst-like”** lesion is evident within the condylar medullary space on this view.
+
+**Likelihood of pathological bony changes in the TMJ (based on this image):**  
+Because there is **superior cortical irregularity suggestive of erosion/degenerative change**, the probability is **>50%**.
+
+**Answer:** **yes**"
+98.png,1,"**Anterior surface of the condyle (osteophytes):**  
+The anterior cortical outline does not show a clear, beak-like marginal bony outgrowth consistent with a definite osteophyte. At most, there may be very mild contour prominence, but it is not convincing on this slice.
+
+**Superior surface of the condyle (erosions/morphologic irregularity):**  
+The superior cortical margin appears **irregular and not smoothly convex**, with a suggestion of **surface flattening/undulation** compatible with early erosive or remodeling-type change rather than a pristine, continuous cortex.
+
+**Medullary space (subchondral cyst-like radiolucencies):**  
+No definite, well-circumscribed radiolucent focus within the condylar head is evident to confidently call a subchondral cyst on this image.
+
+**Likelihood of pathological bony changes in the TMJ (>50%?):**  
+**yes**"

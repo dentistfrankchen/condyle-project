@@ -1,0 +1,67 @@
+﻿filename,Osteophyte_Formation,Osteophyte_Formation_raw
+053.png,0,no
+067.png,0,no
+073.png,1,yes
+1.png,1,"Based on the provided TMJ CBCT scan analysis:  
+
+1. **Anterior surface of the condyle**: Notable bony outgrowths (osteophytes) are visible, indicating degenerative changes.  
+2. **Superior surface of the condyle**: Abnormal depressions/erosions are present, suggesting surface irregularities consistent with pathological wear or inflammatory processes.  
+3. **Medullary space**: A distinct radiolucent area is observed within the condyle, consistent with a subchondral cyst or cyst-like lesion.  
+
+All three anatomical regions demonstrate pathological bony changes. The presence of osteophytes, erosions, and a subchondral cyst collectively indicates a high likelihood (>50%) of significant TMJ pathology.  
+
+**Answer: yes**"
+100.png,1,yes
+102.png,0,no
+103.png,0,no
+105.png,1,yes
+107.png,0,no
+110.png,0,no
+12.png,1,yes
+13.png,0,no
+14.png,1,"To analyze the TMJ CBCT scan according to the specified anatomical sequence:  
+
+1. **Anterior surface of the condyle**: No obvious osteophytes (bony outgrowths) are observed in the provided image. The anterior contour appears relatively smooth without focal projections.  
+2. **Superior surface of the condyle**: The surface does not show clear, abnormal depressions or erosions. While minor irregularities may exist due to image resolution, there are no definitive morphological irregularities suggestive of active erosion.  
+3. **Medullary space**: The condyle’s medullary space contains **radiolucent areas** (dark regions within the bone), which are consistent with cyst-like lesions or subchondral cysts. These findings represent pathological bony changes, as subchondral cysts are not part of normal anatomy and indicate underlying degenerative or inflammatory processes.  
+
+The presence of radiolucent lesions in the medullary space alone constitutes a pathological bony change. Even if other regions appear unremarkable, this finding significantly elevates the likelihood of pathology.  
+
+**Likelihood of pathological bony changes > 50%**: Yes  
+
+yes"
+17.png,0,no
+19.png,0,no
+23-2.png,1,yes
+29.png,1,yes
+3.png,0,no
+30.png,1,"To analyze the TMJ CBCT scan according to the specified anatomical sequence:  
+
+1. **Anterior surface of the condyle**: No distinct osteophytes (outgrowths) are observed. The contour appears relatively smooth without obvious bony projections.  
+2. **Superior surface of the condyle**: Subtle morphological irregularities are noted. The superior contour lacks uniformity, suggesting possible early erosive changes (abnormal depressions).  
+3. **Medullary space**: The condyle’s internal structure shows minor variations in density, but no well-defined radiolucent areas (e.g., subchondral cysts) are clearly evident.  
+
+**Integration of findings**: While osteophytes are absent and cystic lesions are not definitive, the observed irregularity on the superior surface (erosion) is a key pathological indicator in TMJ disorders. Erosive changes alone, even if subtle, are strongly associated with inflammatory or degenerative processes (e.g., osteoarthritis). Given the presence of superior surface irregularities, the likelihood of pathological bony changes exceeds 50%.  
+
+yes"
+31.png,0,no
+32.png,0,no
+34.png,0,no
+35-3.png,0,no
+37.png,0,no
+4.png,0,no
+48-2.png,0,no
+52.png,0,no
+55-1.png,1,yes
+57.png,0,no
+58.png,0,no
+65.png,0,no
+69.png,0,no
+70.png,0,no
+72.png,0,no
+81.png,0,no
+88.png,0,no
+93.png,0,no
+95.png,0,no
+96.png,0,no
+99.png,1,yes

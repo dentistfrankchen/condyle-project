@@ -1,0 +1,55 @@
+﻿filename,Osteophyte_Formation,Osteophyte_Formation_raw
+054.png,0,no
+076.png,1,yes
+10.png,0,no
+104.png,0,no
+15-1.png,0,no
+2.png,0,no
+21-2.png,0,no
+24.png,1,yes
+26-1.png,1,yes
+38.png,1,yes
+39.png,0,no
+40.png,0,no
+41.png,0,no
+43.png,0,no
+5.png,1,"To analyze the TMJ CBCT scan according to the specified anatomical sequence:  
+
+1. **Anterior surface of the condyle**: No obvious outgrowths (osteophytes) are visible. The contour appears relatively smooth without abnormal bony protrusions.  
+2. **Superior surface of the condyle**: The superior surface shows no significant abnormal depressions or morphological irregularities (erosions). The contour remains largely intact.  
+3. **Medullary space**: A radiolucent area (darker region within the bone) is observed in the medullary space of the condyle, consistent with a potential cyst-like lesion or subchondral cyst.  
+
+The presence of a radiolucent area in the medullary space indicates a pathological bony change (e.g., subchondral cysts are associated with degenerative joint disease). While the anterior and superior surfaces appear unremarkable, the identification of a radiolucent lesion in the medullary space alone raises the likelihood of pathological bony changes to greater than 50%.  
+
+**Answer**: yes"
+51.png,0,no
+6.png,0,no
+62.png,1,yes
+63.png,0,no
+64.png,1,yes
+71.png,0,no
+78.png,1,"**Analysis of TMJ CBCT Scan**  
+
+1. **Anterior Surface of the Condyle**:  
+   The anterior aspect of the condyle demonstrates irregular bony outgrowths consistent with **osteophytes**. These appear as small, spiculated projections along the anterior margin, indicating reactive bone formation.  
+
+2. **Superior Surface of the Condyle**:  
+   The superior (articular) surface shows **morphological irregularities and focal depressions**. The normally smooth contour is disrupted, with areas of erosion visible as subtle radiolucent (darker) zones, suggesting degenerative changes.  
+
+3. **Medullary Space**:  
+   Within the condylar bone, there are **radiolucent areas** consistent with subchondral cysts or cyst-like lesions. These appear as well-defined, low-density regions in the medullary cavity, indicative of pathological bone resorption.  
+
+**Conclusion**:  
+All three anatomical regions exhibit pathological features (osteophytes, erosions, and subchondral cysts), which are hallmark signs of degenerative joint disease (e.g., osteoarthritis) in the TMJ. The cumulative evidence strongly suggests bony pathology.  
+
+**Answer**: yes"
+84.png,0,no
+85.png,1,yes
+86.png,0,no
+87.png,0,no
+89.png,1,yes
+90.png,0,no
+91.png,0,no
+94.png,1,yes
+97.png,0,no
+98.png,0,no

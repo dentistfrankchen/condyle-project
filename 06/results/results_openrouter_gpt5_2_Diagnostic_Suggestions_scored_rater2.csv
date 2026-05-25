@@ -1,0 +1,2011 @@
+filename,Response,Accuracy,Clarity,Relevance,Completeness,Provision of Sources,Usefulness
+054.png,"## CBCT Temporomandibular Joint (TMJ) Report — Structured per DC/TMD Imaging Criteria
+
+> **Note/limitation:** This report is based on the single provided CBCT slice image (appears to be a sagittal TMJ view). A definitive bilateral TMJ assessment per DC/TMD ideally requires review of the full DICOM volume (both joints, multiplanar reconstructions, open/closed mouth if available). CBCT evaluates osseous components; **disc position/morphology and effusion cannot be assessed** (MRI is required).
+
+---
+
+### 1) Examination
+**Modality:** Cone Beam CT (CBCT)  
+**Region:** TMJ (limited image provided)  
+**Reconstruction:** Sagittal slice (as provided)
+
+---
+
+### 2) Clinical Indication
+Not provided. (Typical indications include TMJ pain, joint noises, limited opening, suspected degenerative joint disease, trauma, or pre-treatment assessment.)
+
+---
+
+### 3) Image Quality / Technical Adequacy
+- Diagnostic for **gross osseous morphology** on the imaged slice.
+- **Limited** by availability of only a single slice and unknown laterality/position (open vs closed mouth not provided).
+
+---
+
+## 4) Findings (Osseous TMJ Components)
+
+### A. Mandibular Condyle (imaged joint)
+- **Size/shape:** Condylar head contour appears generally preserved on this slice.
+- **Cortical integrity:** Cortical outline appears **continuous** without a clear cortical break.
+- **Erosions:** **No definite erosion** identified on the provided slice.
+- **Osteophyte (marginal bony outgrowth):** **Not evident** on this slice.
+- **Flattening:** **No definite abnormal flattening** beyond expected anatomic variation is identified on this single view.
+- **Subcortical sclerosis:** Not clearly demonstrated on this slice.
+- **Subcortical cyst(s) (Ely’s cysts):** **Not identified** on this slice.
+
+### B. Temporal Component (Glenoid fossa / Articular eminence)
+- **Cortical integrity:** Appears intact on the provided slice.
+- **Articular surface remodeling/degenerative change:** No definite degenerative change is identified on this slice.
+
+### C. Joint Space / Condylar Position (limited inference)
+- Joint space appears **grossly maintained** on the provided view.  
+- Condylar positional assessment (anterior/central/posterior) is **not reliably determinable** without standardized closed-mouth sagittal/coronal reconstructions and bilateral comparison.
+
+### D. Adjacent Structures (as visualized)
+- No additional osseous abnormality is evident within the limited field shown.
+
+---
+
+## 5) DC/TMD Imaging-Based Assessment (Osseous Diagnoses)
+
+### Degenerative Joint Disease (DJD) — DC/TMD Imaging Criteria
+**Imaging features considered (CBCT):** osteophyte, erosion, subchondral sclerosis, subchondral cyst, generalized sclerosis, and deformity/flattening.
+
+- **Imaged joint:** **No radiographic evidence of TMJ degenerative joint disease** is identified on the provided slice.
+
+> **Clinical correlation:** A DC/TMD **clinical diagnosis** of *osteoarthritis* requires DJD imaging findings **plus** clinical arthralgia and/or crepitus. In the absence of imaging DJD, osteoarthritis cannot be supported radiographically on this limited view.
+
+---
+
+## 6) Impression
+1. **No definite osseous degenerative changes** of the TMJ are identified on the **single provided CBCT sagittal slice** (no clear osteophyte, erosion, subcortical cyst, or marked sclerosis).  
+2. **CBCT cannot evaluate disc displacement or joint effusion**; if DC/TMD disc displacement or inflammatory arthropathy is suspected clinically, **MRI** is recommended.
+
+---
+
+## 7) Recommendations
+- If symptoms persist or DC/TMD classification is needed with high confidence:  
+  - Review the **full CBCT DICOM volume** with **bilateral** sagittal/coronal reconstructions (standardized closed-mouth; consider open-mouth if available).  
+  - **MRI of TMJs** (closed and open mouth) for disc position, morphology, effusion/synovitis.
+
+---
+
+If you upload the **full CBCT series (both TMJs)** or provide **laterality and mouth position**, I can issue a complete bilateral DC/TMD-aligned radiology report with definitive osseous staging and side-specific conclusions.",3.0,3.0,3.0,3.0,,3.0
+076.png,"## CBCT Temporomandibular Joint (TMJ) Report — Structured (DC/TMD Osseous Criteria)
+
+### 1) Examination / Technique
+- **Modality:** Cone Beam CT (CBCT)
+- **Region:** TMJ osseous components (condyle, glenoid fossa/articular eminence)
+- **Patient position / jaw position:** Not specified (assumed **closed-mouth** unless otherwise documented).
+- **Image review:** Interpretation is **limited by the single provided sagittal TMJ slice**; a complete DC/TMD radiologic assessment ideally requires **bilateral multiplanar review** (sagittal + coronal, serial slices) of the full dataset.
+
+---
+
+### 2) Clinical Indication
+- Not provided.  
+(DC/TMD imaging is typically performed for TMJ pain/arthralgia, joint sounds, suspected degenerative disease, limitation/deviation on opening, trauma, or pre-treatment evaluation.)
+
+---
+
+### 3) Findings (DC/TMD-Oriented Osseous Assessment)
+
+> **Note:** Side cannot be confirmed from the single image; findings below refer to the **imaged TMJ**.
+
+#### A. Mandibular Condyle
+- **Cortical outline:** Focal **cortical irregularity** at the condylar head margin.
+- **Morphology/remodeling:** **Marginal bony projection** consistent with an **osteophyte** (appearance of a beak/spur-like outgrowth).
+- **Subchondral bone:** Suggestion of **subchondral sclerosis** adjacent to the articular surface (increased radiodensity).
+- **Erosion:** No definite active erosion can be confirmed on this single slice (requires serial review).
+- **Subchondral cyst (geode):** Not demonstrated on the provided image.
+
+#### B. Temporal Component (Glenoid Fossa / Articular Eminence)
+- Limited visualization on the provided slice; no definite focal defect is confirmed here.
+
+#### C. Joint Space / Condylar Position
+- **Joint space assessment is limited** on a single static sagittal slice and without standardized closed/open-mouth series.
+- No gross dislocation is evident on the provided image.
+
+#### D. Additional / Incidental Findings
+- Not assessable from the single cropped view (adjacent temporal bone, mastoid air cells, external auditory canal, etc.).
+
+---
+
+### 4) Impression (DC/TMD-Compatible Radiologic Diagnosis)
+1. **Temporomandibular joint degenerative joint disease (DJD / osteoarthritis)** — **suggested** in the imaged TMJ based on **osteophyte formation** with associated **cortical irregularity** and possible **subchondral sclerosis**.  
+   - Under DC/TMD imaging concepts, the presence of an **osteophyte** supports **DJD** rather than simple adaptive remodeling.
+
+2. If only **flattening** were present without osteophyte/erosion/sclerosis/cyst, this would favor **remodeling**; however, the provided slice demonstrates a **marginal osteophytic change**, making **DJD** more likely.
+
+---
+
+### 5) Limitations / Recommendations
+- **Recommend full bilateral TMJ CBCT dataset review** (sagittal and coronal serial slices) to:
+  - confirm side(s) involved,
+  - grade extent of DJD features (osteophyte, erosion, sclerosis, cyst),
+  - evaluate symmetry and exclude subtle erosions/cysts.
+- **Clinical correlation using DC/TMD Axis I** (arthralgia vs myalgia; joint noises; limitation) is essential.
+- If disc displacement or inflammatory soft-tissue pathology is clinically suspected, **MRI** is recommended for **disc position/effusion/synovitis** assessment.
+
+---
+
+If you upload the **full CBCT series (right and left TMJ, sagittal + coronal stacks; closed-mouth ± open-mouth)** and the **clinical symptoms** (pain, sounds, locking, maximum opening), I can issue a complete side-specific DC/TMD-aligned report (including severity and differential considerations).",4.0,4.0,4.0,3.0,,3.0
+10.png,"## CBCT TEMPOROMANDIBULAR JOINT (TMJ) REPORT — Structured (DC/TMD-aligned)
+
+### 1) Referral / Clinical Information  
+- **Indication:** TMJ assessment for suspected temporomandibular disorder (TMD).  
+- **Clinical DC/TMD context:** Imaging is used to support/confirm **TMJ Degenerative Joint Disease (DJD/osteoarthritis/osteoarthrosis)** when osseous changes are present. Disc position/soft tissues require MRI.
+
+### 2) Imaging Technique  
+- **Modality:** Cone Beam CT (CBCT) of TMJ region.  
+- **Reconstructions reviewed:** Limited sample provided (single sagittal-type section).  
+- **Limitations:** A complete bilateral TMJ interpretation typically requires review of the full volumetric dataset in multiplanar reconstructions (sagittal/coronal/axial) with standardized open/closed-mouth positions if acquired.
+
+### 3) Image Quality  
+- **Diagnostic quality:** Acceptable for gross osseous assessment on the provided section.  
+- **Artifacts:** None that preclude evaluation on the shown slice.
+
+---
+
+## 4) Findings (Osseous; CBCT)
+
+> **Note:** Findings below are based only on the provided image section; side (right vs left) cannot be definitively confirmed without dataset orientation labels.
+
+### A. Mandibular Condyle  
+- **Articular surface contour:** **Flattening** of the superior condylar surface is present.  
+- **Cortical integrity:** **Irregularity with suspected focal cortical interruption/erosive change** at the superior articular surface on the shown section.  
+- **Subchondral bone:** **Subchondral sclerosis** suspected adjacent to the irregular articular surface.  
+- **Osteophyte:** No definite marginal osteophyte is confidently identified on this single slice (cannot exclude on other slices).  
+- **Subchondral cyst(s):** No definite subchondral pseudocyst identified on the provided section.
+
+### B. Glenoid Fossa / Articular Eminence  
+- **Cortical outline:** Partially visualized; no definite focal defect on the provided section.  
+- **Remodeling/sclerosis:** Not confidently assessed from the single image.
+
+### C. Joint Space / Condylar Position  
+- **Joint space:** Not reliably quantifiable from a single section; gross asymmetry cannot be assessed without the full series and open/closed-mouth correlation.  
+- **Translation/subluxation:** Not assessable from the provided static single image.
+
+### D. Extra-articular/Incidental  
+- Not assessable on the limited field/section provided.
+
+---
+
+## 5) DC/TMD Imaging-Based Interpretation (Osseous)
+
+### Imaging support for **TMJ Degenerative Joint Disease (DJD)**  
+DC/TMD recognizes imaging signs such as **flattening, erosion, osteophyte, sclerosis, and subchondral cysts** as supportive of DJD.
+
+- **On the provided section, there is osseous evidence suggestive of DJD**, characterized by:
+  - **Flattening** of the condylar articular surface, and  
+  - **Articular surface irregularity with suspected erosion**, with **adjacent subchondral sclerosis**.
+
+> **Disc displacement (with/without reduction)** and inflammatory soft-tissue findings **cannot be evaluated on CBCT**; MRI is the appropriate modality if clinically indicated.
+
+---
+
+## 6) Impression  
+1. **Osseous changes of the TMJ condyle consistent with degenerative joint disease (DJD/osteoarthritic change)** on the provided image section (flattening + suspected erosion ± subchondral sclerosis).  
+2. **Extent and laterality cannot be fully characterized** without complete bilateral TMJ CBCT dataset review (multiplanar, sequential slices; ideally open/closed-mouth if acquired).  
+3. **Recommend MRI** if the clinical DC/TMD diagnosis includes suspected **internal derangement (disc displacement)**, persistent pain, locking, or to assess joint effusion/synovitis.
+
+---
+
+## 7) Optional DC/TMD-Compatible Summary (for charting)  
+- **Imaging diagnosis (TMJ):** *Degenerative joint disease — supported (osseous changes present on CBCT)*  
+- **Internal derangement:** *Not assessable on CBCT; MRI if indicated*
+
+---
+
+If you upload the **full CBCT volume (DICOM)** and specify **right/left + open/closed-mouth status**, I can provide a complete **bilateral, slice-by-slice** TMJ report with standardized terminology and a clearer DC/TMD mapping.",3.0,3.0,4.0,2.0,,3.0
+104.png,"## CBCT Temporomandibular Joint (TMJ) Report — Structured to DC/TMD Imaging Criteria
+
+> **Important limitation:** Only a single cropped CBCT slice/image was provided. The statements below are therefore **provisional** and based solely on the visible TMJ osseous anatomy in the submitted image. A definitive DC/TMD imaging classification requires review of the **complete CBCT volume in multiplanar reconstructions (axial/coronal/sagittal)** for **both** TMJs.
+
+---
+
+### 1) Study / Technique
+- **Modality:** Cone Beam CT (CBCT)
+- **Region:** TMJ (partial/limited view in supplied image)
+- **Reformations:** Sagittal oblique slice (as provided)
+- **Image quality:** Diagnostic for osseous structures in the displayed region; limited by partial field-of-view and lack of bilateral comparison.
+
+---
+
+### 2) Clinical Indication (per DC/TMD context)
+- CBCT is used in DC/TMD to assess **osseous TMJ changes** supportive of:
+  - **Degenerative Joint Disease (DJD)** imaging findings (e.g., osteophyte, erosion, sclerosis, subchondral cyst, flattening)
+  - Exclusion of other osseous pathology (fracture, ankylosis, tumor)
+- **Note:** DC/TMD **pain diagnoses** (e.g., arthralgia) are **clinical**; CBCT does **not** evaluate the disc/retrodiscal tissues.
+
+---
+
+### 3) Findings (Osseous TMJ)
+
+#### TMJ (side not specified from provided image)
+**Mandibular condyle**
+- **Contour/morphology:** Superior condylar surface appears **flattened** relative to expected convexity.
+- **Cortex:** Suggestion of **cortical remodeling**; no definite displaced fracture identified on this single view.
+- **Subchondral bone:** Relative **subchondral sclerosis** suspected (increased osseous density beneath the articular surface).  
+- **Erosions:** **No unequivocal focal cortical discontinuity/erosion** can be confirmed from the provided slice alone.
+- **Osteophyte:** **No definite marginal osteophyte** is confidently identified on this single slice.
+
+**Temporal component (glenoid fossa/articular eminence)**
+- Limited visualization in the provided crop; no definite osseous destruction is seen in the displayed portion.
+
+**Joint space (static osseous proxy)**
+- True joint space/disc position cannot be assessed with CBCT. Osseous spacing assessment is limited and non-diagnostic for disc displacement.
+
+**Ankylosis**
+- No evidence of bony ankylosis on the provided slice.
+
+---
+
+### 4) DC/TMD Imaging-Based Assessment (Osseous Criteria)
+
+DC/TMD recognizes imaging features of **TMJ Degenerative Joint Disease (DJD)** when one or more of the following are present: **osteophyte, erosion, subchondral sclerosis, subchondral cyst, or flattening** (often with remodeling).
+
+**Based on the provided image:**
+- **Flattening:** **Present (suggested).**
+- **Subchondral sclerosis:** **Present (suspected).**
+- **Osteophyte:** Not confirmed on the provided view.
+- **Erosion:** Not confirmed on the provided view.
+- **Subchondral cyst:** Not identified on the provided view.
+
+**Imaging classification (provisional):**
+- **Findings are most consistent with TMJ osseous remodeling / possible mild degenerative joint disease (DJD)** on the imaged side, **pending full-volume review** and contralateral comparison.
+
+---
+
+### 5) Impression
+1. **Provisional osseous degenerative change** at the imaged TMJ characterized by **condylar surface flattening** with **suspected subchondral sclerosis**, compatible with **early/mild DJD (osteoarthrosis pattern)** on imaging.  
+2. **No definite osteophyte, erosion, subchondral cyst, fracture, or ankylosis** is demonstrated on this single provided slice.
+
+---
+
+### 6) Recommendations (DC/TMD-aligned)
+- **Complete CBCT dataset review** (bilateral TMJs, standardized sagittal and coronal oblique reconstructions) is recommended to confirm DJD features and grade extent.
+- If clinical DC/TMD evaluation suggests **intra-articular disorder** (e.g., painful clicking/locking, suspected disc displacement), recommend **MRI of TMJs** (closed and open mouth) for **disc position and soft-tissue inflammation/effusion**.
+- Correlate with DC/TMD clinical diagnoses (e.g., arthralgia, myalgia, headache attributed to TMD), as imaging alone does not establish pain-related categories.
+
+---
+
+If you upload the **full CBCT volume** (DICOM) or representative **bilateral** sagittal/coronal series (closed/open mouth if available), I can provide a definitive **right vs left** structured report with clearer DC/TMD imaging classification.",4.0,3.0,4.0,4.0,,3.0
+15-1.png,"## CBCT TMJ Report (Structured; DC/TMD Imaging-Oriented)
+
+### 1) Examination
+**Modality:** Cone Beam CT (CBCT) of the temporomandibular joint region  
+**Dataset available for review:** *Single sagittal CBCT image provided (one TMJ only); no full volumetric series/contralateral joint included.*  
+**Primary capability/limitation:** CBCT evaluates **osseous** components well; **articular disc and joint effusion/inflammation are not directly assessed** (MRI required).
+
+---
+
+### 2) Clinical Indication (as provided/assumed for DC/TMD context)
+Evaluation of TMJ osseous structures for suspected temporomandibular disorder (TMD) / degenerative joint disease.
+
+---
+
+### 3) Technical Comment
+Interpretation is limited by review of a **single image** rather than multiplanar reconstructions through the entire condyle–fossa complex and by absence of comparative views (contralateral TMJ; open/closed mouth positions).
+
+---
+
+## 4) Findings (Osseous TMJ)
+
+### A. TMJ (side shown on the provided image)
+**Condylar head (mandibular component):**
+- **Contour/morphology:** Mild **flattening** of the superior condylar surface is suspected.
+- **Cortical integrity:** Subtle **surface cortical irregularity** along the superior articular surface; **no definite osteophyte** identified on this single slice.
+- **Subchondral bone:** No convincing **subchondral cyst** seen on the provided image. No focal destructive lesion.
+
+**Temporal component (glenoid fossa/articular eminence):**
+- Cortical outline appears **grossly intact** on the provided image.
+- No clear erosive defect or hyperostotic change is confirmed on this single section.
+
+**Joint space / condylar position:**
+- Joint space evaluation is **limited** on a single sagittal image; no gross joint space obliteration or ankylosis is seen.
+
+**Other:**
+- No fracture line or aggressive osseous process is evident on the provided view.
+
+### B. Contralateral TMJ
+- **Not available for assessment** (no images provided).
+
+---
+
+## 5) DC/TMD Imaging-Based Interpretation (Osseous Criteria)
+Using DC/TMD-aligned radiographic descriptors for degenerative joint disease:
+
+**Features supported (on provided image):**
+- **Flattening** (mild/suspected)
+- **Possible superficial cortical irregularity** (may correspond to early remodeling/early degenerative change)
+
+**Features not demonstrated/indeterminate on the provided image:**
+- Definite **erosion** (not confirmed)
+- Definite **osteophyte**
+- Definite **subchondral sclerosis** (beyond normal cortical density)
+- **Subchondral cyst**
+- **Ankylosis** (not present)
+
+---
+
+## 6) Impression
+1. **Mild osseous remodeling of the TMJ condyle** on the provided sagittal image, characterized by **suspected mild flattening** and **subtle cortical surface irregularity**.  
+   - This appearance is **most compatible with early/incipient degenerative joint disease (DJD) / osteoarthrosis pattern**, **if** confirmed across additional slices and correlated clinically.
+
+2. **No evidence on the provided image** of: ankylosis, fracture, or an aggressive osseous lesion.
+
+**Important limitation:** This impression is **provisional** due to review of only **one CBCT image** (no full joint coverage; no contralateral comparison).
+
+---
+
+## 7) Recommendations
+- **Correlate with DC/TMD clinical diagnosis** (pain with function, joint noises, limitation). Imaging alone cannot distinguish osteoarthrosis vs osteoarthritis (pain-related) without clinical data.
+- If internal derangement is suspected (clicking/locking), obtain **MRI of TMJ (closed and open mouth)** to assess **disc position/shape and joint effusion/synovitis**.
+- If a complete CBCT volume exists, review with **multiplanar sections through the entire condyle** (medial–central–lateral) and include **contralateral TMJ** for symmetry and staging.
+
+If you can upload the full CBCT series (right/left, closed/open mouth if available) or specify which side this is, I can issue a definitive bilateral DC/TMD-structured CBCT report with graded DJD features.",3.0,3.0,4.0,4.0,,3.0
+2.png,"## CBCT – Temporomandibular Joints (TMJ)  
+**Structured radiology report aligned with DC/TMD (Axis I imaging component for TMJ degenerative joint disease)**  
+*Note: This report is based on the limited image(s) provided. A definitive bilateral TMJ assessment typically requires review of the full CBCT volume with standardized multiplanar reconstructions.*
+
+---
+
+### 1) Clinical information (as provided / presumed)
+- **Indication:** TMJ symptoms (e.g., pain and/or joint sounds and/or functional limitation).  
+- **Clinical correlation required:** DC/TMD clinical examination (arthralgia, crepitus, locking, range of motion).
+
+---
+
+### 2) Technique
+- **Modality:** Cone Beam CT (CBCT) of TMJ region.  
+- **Reconstructions:** Oblique sagittal and coronal TMJ-focused views (interpretation here based on a sagittal TMJ slice).  
+- **Limitations:** CBCT does **not** evaluate the articular disc position/shape or joint effusion; MRI is required for DC/TMD disc diagnoses.
+
+---
+
+### 3) Imaging findings (osseous TMJ assessment)
+
+#### A. TMJ – Side shown (laterality not identifiable from the provided image)
+**Mandibular condyle**
+- **Contour/morphology:** Mild **flattening** of the superior condylar surface (remodeling change).  
+- **Cortex/subchondral bone:** Suggestion of **subchondral sclerosis** in the superior condylar head.  
+- **Erosion:** No definite cortical break/active erosion is identified on the provided slice.  
+- **Osteophyte:** No definite marginal osteophyte is seen on this image.  
+- **Subchondral cyst:** Not identified on the provided image.
+
+**Temporal component**
+- **Glenoid fossa / articular eminence:** No definite osseous defect appreciated on the provided slice (limited assessment).
+
+**Joint space**
+- Joint space relationship cannot be reliably characterized from a single slice; no gross ankylosis is seen.
+
+**Other**
+- No intra-articular loose bodies/calcifications are evident on the provided image.
+
+#### B. Contralateral TMJ
+- **Not assessable** from the provided image(s). Recommend full-volume review for bilateral comparison.
+
+---
+
+### 4) DC/TMD-oriented imaging interpretation (Axis I – DJD)
+Based on the **osseous remodeling features** visible (flattening ± subchondral sclerosis) and **absence of definite active erosions/osteophytes** on the provided slice:
+
+- **Imaging impression favors:** **TMJ Degenerative Joint Disease—remodeling predominant (osteoarthrosis pattern), mild** on the TMJ shown.  
+- **If** clinical DC/TMD criteria are met (e.g., **arthralgia plus coarse crepitus**), this may support a clinical diagnosis of **TMJ osteoarthritis**; imaging alone cannot determine pain status.
+
+---
+
+### 5) Impression (radiologic conclusion)
+1. **Mild degenerative remodeling** of the TMJ depicted, characterized by **superior condylar flattening with subchondral sclerosis**, most consistent with **TMJ degenerative joint disease (osteoarthrosis pattern)**.  
+2. **No definite erosions, osteophytes, or subchondral cysts** are confirmed on the provided image (limited-slice assessment).  
+3. **Recommend**:  
+   - Correlation with DC/TMD clinical findings (pain on palpation/function, crepitus, functional limitation).  
+   - **MRI of TMJs** if disc displacement, inflammatory change, or effusion is suspected clinically.
+
+---
+
+If you share the **full CBCT series** (or at minimum bilateral oblique sagittal + coronal stacks in closed and open mouth positions if available), I can generate a complete **right/left** structured TMJ report with grading of DJD features per joint.",3.0,4.0,3.0,3.0,,3.0
+21-2.png,"## CBCT TMJ Report (Structured; aligned with DC/TMD imaging terminology)
+
+### 1) Study / Clinical Information
+- **Exam:** Cone-beam CT (CBCT) – Temporomandibular joint (TMJ)
+- **Clinical indication (per referrer):** Not provided (please correlate with symptoms: pain, joint sounds, limitation/locking, trauma history).
+- **Side / position:** **Not labeled on the provided image.** Interpretation below refers to the **TMJ shown** on the submitted sagittal slice(s).
+- **Mouth position:** Appears consistent with **closed-mouth** acquisition (based on condyle–fossa relationship), but not confirmable from a single screenshot.
+
+### 2) Technique / Limitations
+- **Technique:** Limited review based on a **single CBCT screenshot** (sagittal TMJ slice).  
+- **Limitations:**  
+  - CBCT evaluates **osseous** TMJ components well but **cannot assess the articular disc** or synovitis/effusion.  
+  - Full DC/TMD imaging characterization typically benefits from **multiplanar review of the entire TMJ volume** (both joints; multiple slices), which was **not available** here.
+
+---
+
+## 3) Findings (Osseous TMJ)
+
+### A. Mandibular condyle (TMJ shown)
+- **Condylar head morphology:** **Remodeling** with **superior surface flattening**.
+- **Cortical integrity:** **Irregularity** of the superior cortical outline; **possible superficial erosion** (cortical interruption/roughened contour suggested on the provided slice).
+- **Subchondral bone:** **Increased subchondral density (sclerosis)** suspected adjacent to the articular surface.
+- **Osteophyte:** No definite marginal osteophyte is confirmed on this single slice (cannot exclude without full volume review).
+
+### B. Temporal component (glenoid fossa / articular eminence)
+- Articular surface contour appears **grossly preserved** on the provided slice, without a definite focal defect. Subtle remodeling cannot be excluded without additional slices.
+
+### C. Joint space / condyle–fossa relationship
+- **Joint space:** Appears **non-uniform** on this slice (exact measurement and anterior/posterior compartment assessment requires full dataset and standardized planes).
+- **Condylar position:** Cannot be reliably categorized (e.g., anterior/posterior) from a single image without reference planes and bilateral comparison.
+
+### D. Surrounding structures
+- Adjacent pneumatized temporal bone/mastoid air cells partially seen; **no acute osseous abnormality** is evident on the limited view provided.
+
+---
+
+## 4) DC/TMD-Oriented Imaging Assessment (Bone-based)
+### Imaging features of **TMJ Degenerative Joint Disease (DJD)** (DC/TMD imaging constructs)
+- **Present features on this limited view:**  
+  - **Flattening (remodeling)** of condylar articular surface  
+  - **Suspected erosion** and **subchondral sclerosis**
+- **Overall imaging categorization (bone only):**  
+  - **Findings are most consistent with TMJ degenerative joint disease / osteoarthrosis (imaging-based).**
+
+> **DC/TMD note:** The distinction between **osteoarthrosis** (degenerative change without pain) and **osteoarthritis** (degenerative change with arthralgia/pain) requires **clinical symptom correlation**; CBCT alone cannot classify pain status.
+
+---
+
+## 5) Impression
+1. **TMJ shown:** **Condylar remodeling with superior flattening and suspected erosive/sclerotic change**, compatible with **TMJ degenerative joint disease (DJD)** on CBCT (DC/TMD imaging construct; **osteoarthrosis** unless pain is present clinically).
+2. **Recommendation:**  
+   - Correlate with DC/TMD clinical findings (arthralgia, crepitus, range of motion, functional limitation).  
+   - If internal derangement is suspected (locking/clicking) or if soft-tissue inflammatory assessment is needed, consider **MRI of the TMJ** (closed/open mouth).
+
+---
+
+### Optional (to finalize a full formal report)
+If you provide: **laterality labels**, **full CBCT volume (both TMJs)**, and **clinical symptoms**, I can complete:
+- Bilateral comparative assessment
+- Standardized condylar position description
+- Grading of DJD features (erosion/osteophytes/cysts) with higher confidence
+- A DC/TMD-compatible combined clinical–imaging diagnostic statement (e.g., osteoarthritis vs osteoarthrosis).",4.0,2.0,3.0,3.0,,3.0
+24.png,"## CBCT Temporomandibular Joint (TMJ) Report — Structured (DC/TMD-aligned)
+
+> **Important limitation:** Only a single CBCT slice/image was provided. A definitive DC/TMD imaging interpretation typically requires review of the full DICOM volume in multiplanar reconstructions (sagittal/coronal/axial) for **both** TMJs in closed- and (if acquired) open-mouth positions. The findings and DC/TMD classification below therefore apply **only to the joint depicted** and are **provisional**.
+
+---
+
+### 1) Clinical Information
+- **Indication (as provided):** Not specified (assumed TMJ pain/dysfunction evaluation).
+- **Clinical correlation recommended (DC/TMD):** Pain with function, joint noises (click/crepitus), limitation/deviation, and palpation findings.
+
+---
+
+### 2) Examination / Technique
+- **Modality:** Cone Beam CT (CBCT)
+- **Region:** TMJ (single joint image provided)
+- **Reconstruction:** Sagittal-appearing TMJ slice (based on anatomy)
+- **Disk/soft tissues:** **Not assessable** on CBCT (MRI required for disk position/effusion).
+
+---
+
+### 3) Image Quality
+- **Diagnostic adequacy:** Limited by single-slice submission; otherwise bony detail appears adequate for gross osseous assessment.
+
+---
+
+## 4) Findings (Osseous TMJ; DC/TMD Imaging Items)
+
+### A. Mandibular Condyle (imaged side)
+- **Contour/shape:** **Flattening** of the superior condylar surface (remodeling).
+- **Cortical integrity:** **Irregularity** along the superior articular cortex; an **erosive component cannot be excluded** on this single slice.
+- **Osteophyte:** No definite marginal osteophyte confidently identified on the provided image.
+- **Subchondral sclerosis:** Mild increased subcortical density is **suspected**, but not confirmable without scrolling/measurement.
+- **Subchondral cyst (geode):** Not clearly seen on this image.
+- **Fracture/ankylosis:** No evidence of fracture or bony ankylosis on the provided view.
+
+### B. Temporal Component (Glenoid Fossa / Articular Eminence)
+- **Cortical outline:** Appears grossly maintained on this slice.
+- **Erosion/sclerosis:** No definite temporal bone erosion demonstrated on the single image.
+- **Pneumatization:** Aerated spaces compatible with temporal bone pneumatization are noted adjacent to the articular eminence region (an anatomic variant when present), incompletely assessed.
+
+### C. Joint Space / Condylar Position
+- **Joint space:** Not reliably quantifiable from a single slice; no gross obliteration suggested.
+- **Condylar position:** Not determinable with confidence without standardized closed-mouth MPR assessment.
+
+### D. Adjacent Structures (limited)
+- No discrete loose body identified on the provided image.
+
+---
+
+## 5) DC/TMD Imaging Interpretation (Provisional)
+DC/TMD recognizes **Degenerative Joint Disease (DJD)** on imaging when one or more of the following are present: **osteophyte, erosion, subchondral sclerosis, subchondral cyst**, with/without flattening.
+
+- The imaged condyle demonstrates **flattening with cortical surface irregularity**, which is **most consistent with TMJ degenerative change**.
+- Because a definite **osteophyte** or unequivocal **erosion** cannot be confirmed from this single slice, the most appropriate DC/TMD-aligned wording is:
+
+### **Provisional DC/TMD category: Degenerative Joint Disease (DJD) — remodeling/osteoarthrosis favored**
+- If, on full-volume review, **erosion** and/or **osteophyte** are confirmed, classification would shift toward **TMJ osteoarthritis (active DJD)** rather than osteoarthrosis (stable remodeling).
+
+---
+
+## 6) Impression
+1. **Imaged TMJ:** Osseous changes characterized by **superior condylar flattening and cortical irregularity**, **compatible with TMJ degenerative joint disease** (DC/TMD).  
+2. **No evidence on the provided image** of fracture, bony ankylosis, or an intra-articular loose body.
+
+---
+
+## 7) Recommendations
+- **Full DICOM review** of both TMJs in standardized MPR planes to confirm: erosion vs remodeling, osteophytes, sclerosis/cysts, joint space symmetry, and condylar position.
+- If DC/TMD clinical exam suggests **intra-articular disorder (e.g., disc displacement)** or persistent inflammatory signs: **MRI of TMJ** (closed/open mouth) for disk position and joint effusion/synovitis.
+- Correlate radiographic DJD with symptoms: imaging DJD may be present with or without pain (DC/TMD).
+
+---
+
+If you can upload the **full CBCT series (or additional sagittal + coronal slices of both TMJs, closed/open mouth if available)** and indicate **side (R/L)** and key symptoms, I can issue a definitive bilateral DC/TMD-aligned CBCT report with graded DJD features.",4.0,3.0,4.0,3.0,,3.0
+26-1.png,"## CBCT Temporomandibular Joint (TMJ) Report — Structured per DC/TMD Imaging Criteria
+
+### 1) Examination / Technique
+- **Modality:** Cone Beam CT (CBCT)
+- **Region:** TMJ (sagittal reconstruction provided)
+- **Laterality:** **Not labeled on the provided image** (findings reported for the **imaged TMJ**)
+- **Primary capability/limitation:** CBCT is optimal for **osseous** TMJ assessment. **Articular disc position/morphology and synovitis/effusion are not assessable** on CBCT.
+
+### 2) Clinical Indication (as provided)
+- Not provided. (DC/TMD interpretation should be correlated with history of pain, joint noises/crepitus, and functional limitation.)
+
+---
+
+## 3) Osseous Findings (DC/TMD-Referenced Descriptors)
+
+### A. Mandibular Condyle
+- **Contour/shape:** **Flattening** of the superior articulating surface.
+- **Cortical integrity:** **Cortical irregularity** at the superior surface (compatible with surface remodeling/degenerative change).
+- **Osteophyte:** **Suspected marginal osseous beaking/osteophyte** at the superior/anterior aspect on the provided slice.
+- **Subchondral bone:** **Subchondral sclerosis** suspected adjacent to the articular surface.
+- **Subchondral cysts:** Not clearly identified on the provided image.
+- **Fracture/destructive lesion:** No evidence of acute fracture or aggressive osseous destruction on this view.
+
+### B. Temporal Component (Glenoid Fossa / Articular Eminence)
+- **Cortical outline:** Appears maintained on the provided image.
+- **Degenerative changes:** No definite erosive defect identified on this single slice; mild remodeling/sclerosis cannot be excluded without full series review.
+
+### C. Joint Space / Condylar Position (static)
+- **Joint space assessment:** Limited on a single sagittal slice; **possible superior joint space reduction** on this view (requires confirmation on full dataset and standardized mouth position).
+
+### D. Ankylosis / Loose Bodies
+- **TMJ ankylosis:** Not seen.
+- **Intra-articular loose bodies:** Not identified on the provided image.
+
+---
+
+## 4) DC/TMD Imaging Impression (Osseous Diagnosis)
+**Imaged TMJ: Findings are most consistent with *Degenerative Joint Disease (DJD)* meeting DC/TMD imaging features for *osteoarthritis* (radiographic),** based on:
+- **Flattening** with **cortical irregularity**, and
+- **Suspected osteophyte formation** and **subchondral sclerosis**.
+
+> **Note:** DC/TMD differentiates *osteoarthritis* (imaging evidence such as osteophyte and/or erosion and/or subchondral cyst) from *osteoarthrosis* (remodeling such as flattening/sclerosis without osteophyte/erosion). Clinical symptoms determine whether this is “active/symptomatic” vs incidental.
+
+---
+
+## 5) Recommendations / Correlation (DC/TMD-Oriented)
+1. **Clinical correlation** with DC/TMD exam findings: joint pain with function, crepitus, limitation/deviation, and palpation tenderness.
+2. If internal derangement is suspected (clicking/locking) or if inflammatory arthropathy is a concern, consider **MRI of the TMJs** for disc position and joint effusion/synovitis.
+3. If available, review the **complete CBCT dataset bilaterally** (multiplanar, multiple slices) to confirm osteophyte/erosion and to compare contralateral joint status.
+
+--- 
+
+If you share the **full CBCT series (both TMJs, open/closed mouth if available)** and the **side labels**, I can produce a fully bilateral DC/TMD-structured report with grading of each osseous criterion per joint.",4.0,4.0,4.0,3.0,,4.0
+38.png,"## CBCT TMJ Report (Structured; aligned with DC/TMD imaging criteria)
+
+### 1) Patient / Referral Information
+- **Indication (per referral):** TMJ evaluation (DC/TMD framework requested).
+- **Clinical data provided:** Not provided (pain history, joint sounds, locking, trauma, systemic arthropathy status unknown).
+
+### 2) Imaging Technique / Quality
+- **Modality:** Cone Beam CT (CBCT)
+- **Region:** Temporomandibular joint(s)
+- **Patient position / mouth position:** Not specified.
+- **Limitations:** CBCT evaluates **osseous** components and joint spaces; **disc position/shape and effusion cannot be assessed** (MRI required for DC/TMD disc displacement diagnoses). Interpretation is limited to the image(s) provided.
+
+---
+
+## 3) Osseous Findings (DC/TMD-relevant features)
+
+### A) Mandibular Condyle
+- **Cortical outline:** **Irregularity with suspected cortical interruption/erosive change** at the superior articular surface on the provided view.
+- **Articular surface morphology:** Suggestion of **surface remodeling/flattening** adjacent to the irregular area.
+- **Subchondral bone:** No definite subchondral cysts can be confirmed on the provided view; subchondral sclerosis cannot be reliably graded from this limited image set.
+
+### B) Glenoid Fossa / Articular Eminence
+- **Osseous contours:** Not fully evaluable from the provided image(s); no definite fracture is identified on this limited view.
+
+### C) Joint Space / Alignment
+- **Joint space:** Cannot be reliably measured/compared without complete bilateral, standardized sagittal/coronal series and known mouth position.
+- **Condylar position:** Not determinable from the limited provided slice.
+
+### D) Additional Findings
+- No additional regional osseous findings can be confidently assessed from the provided image(s).
+
+---
+
+## 4) DC/TMD Imaging Interpretation (Osseous Component)
+**Imaging features present (CBCT):**
+- **Erosive change (suspected)** and **surface remodeling** of the condylar articular cortex.
+
+**DC/TMD Imaging-based impression:**
+- Findings are **compatible with Degenerative Joint Disease (DJD)** of the TMJ **per DC/TMD imaging criteria** (erosion and/or osteophyte/subchondral changes are considered supportive; flattening alone is not sufficient, but erosive change is supportive).
+
+> **Important DC/TMD note:** CBCT supports the **DJD** component; it does **not** establish whether the condition is symptomatic (e.g., arthralgia) without clinical correlation.
+
+---
+
+## 5) Impression
+1. **TMJ degenerative osseous change** on the provided view, characterized by **suspected cortical erosion with adjacent remodeling/flattening**, consistent with **TMJ Degenerative Joint Disease (DC/TMD: DJD)**.  
+2. **Disc status not assessable on CBCT.** If DC/TMD disc displacement (with/without reduction) is clinically suspected (locking, limited opening, intermittent catching), **MRI of TMJs** is recommended.
+
+---
+
+## 6) Recommendations (Correlation / Next Steps)
+- Correlate with **DC/TMD clinical exam** (pain with jaw function, palpation tenderness, joint sounds, range of motion, locking history).
+- Consider **bilateral dedicated TMJ CBCT series** (closed and open mouth) if not already obtained, to evaluate symmetry and joint space behavior.
+- **MRI TMJ** if disc displacement, effusion/synovitis, or persistent pain is a concern.
+
+If you share the **full CBCT volume** (right/left, open/closed mouth views) and brief clinical history (pain, noises, locking, duration), I can produce a complete bilateral DC/TMD-oriented report with side-specific staging and a clearer DJD characterization (erosion vs osteophyte vs sclerosis/cysts).",4.0,4.0,4.0,4.0,,4.0
+39.png,"## CBCT Temporomandibular Joint (TMJ) Report — Structured per DC/TMD (Imaging Component)
+
+### 1) Examination / Technique
+- **Modality:** Cone Beam CT (CBCT)  
+- **Coverage:** TMJ region (osseous assessment).  
+- **Reconstruction planes reviewed:** Multiplanar (sagittal/coronal/axial) with emphasis on sagittal oblique through the condylar head.  
+- **Limitations (DC/TMD relevant):** CBCT evaluates **osseous** components only; **articular disc position/morphology and joint effusion** cannot be assessed (MRI required for DC/TMD disc diagnoses).
+
+### 2) Clinical Indication (as provided / presumed)
+- DC/TMD-related TMJ evaluation (pain/clicking/limited opening) / suspected TMJ degenerative change.  
+*(If different, please specify to tailor the impression.)*
+
+---
+
+## 3) Findings (Osseous TMJ Assessment)
+
+> **Note:** Findings below describe the TMJ demonstrated in the provided image slice. Full bilateral assessment requires complete CBCT dataset review.
+
+### A. Mandibular Condyle
+- **Cortical outline:** **Irregularity of the superior articular cortex** with **surface discontinuity consistent with erosion**.  
+- **Condylar shape/contour:** **Flattening** of the superior articular surface.  
+- **Subcortical bone:** **Reactive subchondral sclerosis** present adjacent to the articular surface.  
+- **Osteophyte:** Not definitively identified on the provided slice.  
+- **Subcortical cyst:** Not evident on the provided slice.  
+- **Fracture/destructive lesion:** None identified.
+
+### B. Temporal Component (Glenoid Fossa / Articular Eminence)
+- **Cortical integrity:** Appears maintained on the provided slice; no focal osseous defect identified.  
+- **Articular eminence morphology:** No definite abnormality on the provided slice.
+
+### C. Joint Space (Osseous surrogate)
+- **Joint space relationship:** Cannot be reliably quantified from a single slice; no gross dislocation is evident on the provided view.
+
+### D. Ancillary / Adjacent Structures
+- Limited evaluation on the provided image; no additional osseous abnormality is apparent in the shown field.
+
+---
+
+## 4) DC/TMD Imaging Interpretation (Osseous Diagnoses)
+
+### Imaging criteria for **Degenerative Joint Disease (DJD)** per DC/TMD-compatible osseous signs (CBCT/CT):
+- **Erosion:** Present  
+- **Flattening:** Present  
+- **Subchondral sclerosis:** Present  
+- **Osteophyte / subcortical cyst:** Not demonstrated on the provided slice
+
+**Imaging impression:**  
+- **TMJ Degenerative Joint Disease (DJD)** — osseous degenerative changes characterized by **erosion + flattening + subchondral sclerosis**.
+
+> **DC/TMD clinical correlation note:**  
+> If the patient has **arthralgia** (pain in the joint with function/palpation) in the corresponding TMJ, this imaging pattern supports **osteoarthritis** (painful DJD). If pain is absent, the imaging diagnosis is consistent with **osteoarthrosis** (non-painful DJD).
+
+---
+
+## 5) Impression (Summary)
+1. **Osseous degenerative change of the TMJ** on the provided view, including **superior condylar erosion, flattening, and subchondral sclerosis**, consistent with **TMJ DJD** (DC/TMD imaging component).  
+2. **No fracture or aggressive osseous lesion** identified on the provided slice.  
+3. **MRI recommended** if DC/TMD disc displacement (with/without reduction) or joint effusion/synovitis is clinically suspected, as these are not assessable with CBCT.
+
+---
+
+### 6) Recommendations (Optional, DC/TMD-aligned)
+- Correlate with DC/TMD clinical exam (arthralgia, crepitus, range of motion, functional pain).  
+- Consider MRI for disc status if there is clicking/locking or suspected internal derangement.
+
+If you can provide the **full CBCT series (bilateral TMJs) and indicate side (right/left), open/closed mouth**, I can generate a complete bilateral DC/TMD-structured report with side-specific grading.",3.0,3.0,3.0,3.0,,3.0
+40.png,"## CBCT Temporomandibular Joint (TMJ) Report — Structured per DC/TMD Imaging Criteria
+
+### 1) Examination / Clinical Indication
+- **Study:** Cone-beam CT (CBCT) of TMJ region  
+- **Indication (as provided):** Not specified (please correlate with DC/TMD clinical pain and function assessment).
+- **Clinical question:** Osseous TMJ assessment for degenerative joint disease (DJD) / bony remodeling.
+
+### 2) Technique
+- **Imaging modality:** CBCT
+- **Reformats reviewed:** Limited information provided (single sagittal-appearing slice supplied).  
+- **Note:** DC/TMD recommends evaluation of both TMJs in multiple planes; this report is constrained to the provided image(s).
+
+### 3) Limitations (DC/TMD-Relevant)
+- CBCT evaluates **osseous components** only.  
+- **Articular disc position/morphology** and **joint effusion/synovitis** cannot be assessed; MRI is required for DC/TMD disc displacement assessment.
+
+---
+
+## 4) Osseous TMJ Findings (DC/TMD Imaging Descriptors)
+
+### A. TMJ — Side/Joint Imaged (single joint shown)
+**Mandibular condyle**
+- **Cortical outline:** Largely continuous and intact on the provided slice.
+- **Condylar shape/remodeling:** Mild **flattening** of the superior articular surface is suspected (adaptive remodeling pattern).
+- **Osteophyte:** **Not clearly identified** on the provided image.
+- **Erosion:** **Not clearly identified** (no definite cortical discontinuity or irregular “moth-eaten” defect on this slice).
+- **Subchondral sclerosis:** Not definitively demonstrated on the provided slice (assessment limited).
+- **Subchondral cyst (geode):** Not identified.
+
+**Temporal component (glenoid fossa / articular eminence)**
+- **Cortical integrity:** Appears intact on the provided slice.
+- **Erosions/osteophytes/sclerosis:** No definite abnormality identified on this image.
+
+**Joint space / condylar position**
+- **Joint space:** Grossly maintained on the provided slice (limited single-slice assessment).
+- **Condylar position:** Appears approximately seated within the fossa on this view; precise positional assessment requires standardized closed-mouth series and multi-slice review.
+
+### B. Contralateral TMJ
+- **Not provided / not assessable** from the submitted image(s).
+
+### C. Additional Findings
+- No additional regional osseous findings can be reliably assessed from the limited image provided.
+
+---
+
+## 5) DC/TMD Imaging Interpretation (Degenerative Joint Disease)
+DC/TMD imaging-based DJD categories (for osseous imaging) commonly applied:
+- **DJD Present:** osteophyte and/or erosion (with or without other signs)
+- **DJD Indeterminate:** flattening and/or sclerosis **without** definite osteophyte or erosion
+- **No DJD:** none of the above features
+
+**Based on the provided image:**
+- **DC/TMD Imaging Diagnosis:** **Indeterminate for TMJ Degenerative Joint Disease**  
+  - Rationale: **Flattening/remodeling** suspected, **without definite osteophyte or erosion** on the provided slice.
+
+---
+
+## 6) Impression
+1. **Mild condylar remodeling/flattening** on the imaged TMJ without definite osteophyte or erosion on the provided image.  
+2. **DC/TMD imaging classification:** **Indeterminate DJD** (osseous changes insufficient to confirm DJD on this limited dataset).  
+3. If clinically indicated (pain with function, crepitus, progressive limitation), recommend:
+   - **Complete bilateral TMJ CBCT review** (standardized closed-mouth, and if available open-mouth) for comprehensive osseous assessment, and/or  
+   - **TMJ MRI** for DC/TMD disc displacement and inflammatory joint evaluation.
+
+---
+
+If you upload the full CBCT series (both TMJs; closed-mouth ± open-mouth) and provide the key DC/TMD clinical findings (pain location, familiar pain with palpation/function, joint sounds, maximum opening), I can finalize a fully bilateral, criteria-complete DC/TMD-aligned report.",2.0,2.0,3.0,2.0,,3.0
+41.png,"## CBCT Temporomandibular Joint (TMJ) Report — Structured (DC/TMD-Oriented)
+
+### 1) Clinical Information / Indication  
+- Indication: TMJ evaluation (DC/TMD-based assessment requested).  
+- Symptoms provided: Not specified (pain, joint sounds, locking history not provided). Clinical correlation is required for DC/TMD Axis I final diagnosis (e.g., osteoarthritis vs osteoarthrosis).
+
+### 2) Imaging Technique  
+- Modality: Cone Beam Computed Tomography (CBCT).  
+- Reconstruction: Osseous assessment on sagittal TMJ section(s) (limited image provided).  
+- Limitations: CBCT evaluates **bony components** only; **disc position, effusion, synovitis, and marrow edema cannot be assessed**. The current interpretation is limited by availability of only a single representative image rather than a full bilateral volume.
+
+---
+
+## 3) Findings (Osseous TMJ Assessment)
+
+### A. Mandibular Condyle (evaluated side not specified)  
+- **Cortical outline:** Irregularity at the **superior/anterior-superior condylar surface** with **focal cortical discontinuity**, most consistent with an **erosive change**.  
+- **Condylar contour:** Mild **flattening** of the superior articular surface (may represent remodeling; in combination with erosion supports degenerative change).  
+- **Osteophyte:** Not clearly demonstrated on the provided image.  
+- **Subchondral sclerosis / cyst:** Not definitively identified on the provided image.
+
+### B. Temporal Component (Glenoid fossa / Articular eminence)  
+- No definite osseous abnormality is identifiable on this single section. Full assessment requires review of the complete volume.
+
+### C. Joint Space / Condylar Position  
+- Joint space and condylar position **cannot be reliably characterized** from the single provided image alone (open vs closed mouth status and multiplanar confirmation not available).
+
+---
+
+## 4) DC/TMD Imaging Interpretation (Axis I—Imaging Support)
+
+### Imaging features consistent with DC/TMD **Degenerative Joint Disease (DJD)** criteria  
+DC/TMD imaging signs of DJD include **erosion, osteophyte, subchondral cyst, generalized sclerosis** (flattening alone may represent remodeling).  
+- Present in this image: **Erosion (yes, suspected)** ± flattening.  
+- Therefore: **CBCT evidence supports TMJ degenerative joint disease (DJD) on the evaluated side**.
+
+> Clinical note for DC/TMD classification:  
+> - If the patient has TMJ arthralgia (pain with jaw function/palpation) plus DJD imaging signs → **Osteoarthritis**.  
+> - If DJD imaging signs are present without current pain → **Osteoarthrosis**.
+
+---
+
+## 5) Impression  
+1. **Findings suspicious for TMJ degenerative joint disease** on the evaluated side, characterized by **focal erosive change of the superior/anterior-superior condylar cortex** with mild associated **flattening**.  
+2. No definite osteophyte, subchondral cyst, or generalized sclerosis is confirmed on the single provided section.  
+3. **Soft-tissue/internal derangement (disc displacement)** cannot be assessed with CBCT; consider **MRI** if clinically indicated (locking, persistent pain, suspected disc displacement).
+
+---
+
+## 6) Recommendations  
+- Correlate with DC/TMD clinical examination (arthralgia, crepitus, limitation/locking) to finalize **osteoarthritis vs osteoarthrosis**.  
+- If symptoms suggest internal derangement or active inflammation, obtain **TMJ MRI** (preferably bilateral, closed/open mouth).  
+- If this report is intended for definitive interpretation, submit the **full bilateral CBCT dataset** (multiplanar views) to confirm extent and exclude additional DJD features.
+
+If you tell me (1) right vs left side, (2) open- vs closed-mouth scan, and (3) whether the patient has pain and/or crepitus, I can finalize the DC/TMD Axis I wording (osteoarthritis vs osteoarthrosis) more precisely.",3.0,4.0,4.0,3.0,,3.0
+43.png,"## CBCT – Temporomandibular Joint (TMJ) Osseous Assessment (DC/TMD-aligned)
+
+### 1) Clinical Information
+- **Indication (per referral):** Not provided.  
+- **Symptoms/clinical DC/TMD pain status:** Not provided (required to differentiate osteoarthritis vs osteoarthrosis clinically).
+
+### 2) Imaging Technique / Study Quality
+- **Modality:** Cone Beam CT (CBCT)  
+- **Protocol:** TMJ osseous evaluation (disc/soft tissues not assessable on CBCT).  
+- **Limitations:** Interpretation is **based on the single provided sagittal TMJ image**; side and full volumetric context (multiplanar/contralateral comparison) are not available.
+
+---
+
+## 3) Findings (Osseous TMJ)
+
+### TMJ (side not specified on provided image)
+**Mandibular condyle**
+- **Condylar head contour:** **Flattening** of the superior articular surface.
+- **Cortical integrity:** **Irregularity/possible superficial erosion** along the superior (articulating) cortex.
+- **Marginal bone changes:** No definite large osteophyte is confirmed on this single slice (small marginal proliferation cannot be excluded without full dataset).
+- **Subchondral bone:** No clear subchondral cyst is identified on the provided image. Subchondral sclerosis cannot be reliably graded without full windowed series.
+
+**Temporal component (glenoid fossa/articular eminence)**
+- Cortical outline appears grossly maintained on this slice; subtle remodeling cannot be excluded without full multiplanar review.
+
+**Joint space (hard-tissue surrogate)**
+- **Not reliably quantifiable** on a single sagittal image; overall relationship suggests **remodeling-related change** rather than acute fracture/dislocation.
+
+**No acute osseous injury**
+- No displaced fracture or destructive bone lesion is evident on the provided image.
+
+---
+
+## 4) DC/TMD Imaging Interpretation (Osseous Diagnoses)
+### DC/TMD: Degenerative Joint Disease (DJD) – Imaging Criteria
+Imaging features supporting DJD include **flattening and cortical irregularity/erosion** of the condylar articular surface.
+
+- **Imaging impression:** **TMJ degenerative osseous change present** (DJD).  
+- **Clinical correlation required:**  
+  - If **arthralgia/pain** is present → consistent with **osteoarthritis** (DC/TMD clinical diagnosis + imaging support).  
+  - If **no pain** → consistent with **osteoarthrosis** (imaging-based degenerative change without pain).
+
+---
+
+## 5) Impression
+1. **Osseous degenerative changes of the TMJ** on the provided sagittal image, characterized by **superior condylar flattening** with **cortical irregularity/possible erosion**, consistent with **DC/TMD Degenerative Joint Disease (DJD)**.  
+2. **No acute fracture or aggressive osseous lesion** is identified on the provided image.
+
+---
+
+## 6) Recommendations
+- **Correlate with DC/TMD clinical findings** (pain with function/palpation, crepitus, limitation, deviation).  
+- If internal derangement (disc displacement) is suspected clinically, consider **MRI TMJ** (closed/open mouth) for **disc position, effusion, and marrow/soft-tissue assessment**.  
+- If available, a **full CBCT volume review** (bilateral TMJs, multiplanar + 3D assessment) is recommended to grade DJD features (osteophytes, sclerosis, cysts) and compare sides.
+
+If you upload the full CBCT series (or at least bilateral sagittal and coronal TMJ reconstructions with side labels), I can produce a complete bilateral DC/TMD-structured report with grading of each DJD feature.",3.0,2.0,3.0,2.0,,2.0
+5.png,"## CBCT TMJ Report (Structured; DC/TMD Imaging Framework)
+
+### 1) Study / Clinical Information  
+- **Modality:** Cone Beam CT (CBCT)  
+- **Region:** Temporomandibular joint (TMJ) osseous components  
+- **Clinical indication:** Not provided (recommend correlation with DC/TMD symptom history: arthralgia, joint sounds, locking, limitation).  
+- **Materials provided for review:** Limited image set (single sagittal slice/screenshot). **Side and mouth position (closed/open) not specified.**
+
+---
+
+### 2) Technique / Limitations  
+- **Technique:** Evaluation of TMJ **bony** structures on provided CBCT sagittal reconstruction.  
+- **Key limitations:**  
+  - CBCT is **not diagnostic for disc position or disc perforation** (MRI required for DC/TMD disc displacement assessment).  
+  - With a single slice/screenshot, **joint space assessment, mediolateral morphology, and full condylar head survey are limited**; subtle erosions/osteophytes may be under- or overestimated.
+
+---
+
+### 3) Imaging Findings (Osseous TMJ)
+
+> **TMJ side:** **Indeterminate** (only one TMJ image provided).
+
+#### A. Mandibular Condyle  
+- **Articular surface contour:** **Flattening/irregularity** of the superior condylar articular surface.  
+- **Cortical integrity:** **Focal cortical irregularity** at the superior articular surface (appearance raises concern for **erosion**, though limited by single-slice review).  
+- **Subchondral bone:** Suggestion of **subchondral sclerosis** subjacent to the articular surface.  
+- **Osteophyte:** No definite osteophyte is confirmed on this single slice (cannot exclude on unsampled planes).
+
+#### B. Temporal Component (Glenoid fossa / Articular eminence)  
+- Temporal articular surface is only partially visualized on the provided image; **no definite osseous defect** is demonstrated here on this slice.
+
+#### C. Joint Space / Position  
+- **Joint space cannot be reliably assessed** on the provided limited image (requires standardized closed/open mouth series and multi-planar review).
+
+---
+
+### 4) DC/TMD-Oriented Imaging Impression  
+**Imaging features are most consistent with TMJ Degenerative Joint Disease (DJD)** on the imaged side, based on:  
+- **Flattening** and **surface irregularity** of the condylar articular cortex, with possible **erosion** and **subchondral sclerosis**.
+
+#### DC/TMD Diagnostic Mapping (Imaging + Symptoms)  
+- **DC/TMD “Osteoarthrosis (DJD)”**: If these imaging changes are present **without** current TMJ pain/arthralgia.  
+- **DC/TMD “Osteoarthritis”**: If these imaging changes are present **with** clinical TMJ arthralgia (pain modified by jaw function/palpation).
+
+---
+
+### 5) Recommendations  
+1. **Clinical correlation using DC/TMD exam** (pain with function/palpation, joint sounds, locking, range of motion).  
+2. If internal derangement is suspected (clicking/locking) or to evaluate the disc: **MRI of TMJs** (closed and open mouth).  
+3. If available, review a **complete CBCT TMJ dataset** (bilateral, standardized planes, ideally closed and open mouth) to better characterize osteophytes, erosions, and joint space.
+
+---
+
+### 6) Reporting Note  
+This report is based on a **single limited CBCT image**. A definitive side-specific, comprehensive TMJ CBCT interpretation (including bilateral comparison and staging) requires access to the full DICOM volume and acquisition details.",4.0,4.0,4.0,3.0,,3.0
+51.png,"## CBCT Temporomandibular Joint (TMJ) Report — Structured (DC/TMD-aligned)
+
+> **Important limitation:** Only a single CBCT image/slice was provided. A DC/TMD-oriented radiographic assessment of TMJ degenerative joint disease (DJD) requires review of the *complete CBCT volume* (right and left TMJs in corrected sagittal and coronal planes, multiple slices through each condyle). The statements below therefore apply **only to the imaged joint region on the provided slice** and should be considered **preliminary/limited**.
+
+---
+
+### 1) Clinical Information (as provided)
+- **Indication:** Not provided. (Common indications: arthralgia, joint sounds, limited opening, suspected DJD, trauma, asymmetry.)
+- **DC/TMD context:** Imaging is used to support **DC/TMD Axis I** diagnoses such as **Degenerative Joint Disease (DJD)** when osseous changes are present.
+
+---
+
+### 2) Acquisition / Technical
+- **Modality:** Cone Beam CT (CBCT)
+- **Region:** TMJ (single sagittal-appearing section provided)
+- **Patient position / mouth position:** Not stated (open vs closed affects joint space interpretation).
+- **Image quality:** Diagnostic for gross osseous contour on the provided slice; interpretation limited by single-section sampling.
+
+---
+
+### 3) Findings (Osseous TMJ Structures)
+
+#### A) Condyle (imaged side)
+- **Cortical outline:** Appears **continuous** on this slice; no definite cortical break identified.
+- **Condylar head shape/contour:** Mild contour irregularity/flattening cannot be excluded on a single slice; **no definite osteophyte** is confidently demonstrated on this image alone.
+- **Subchondral bone:**
+  - **Sclerosis:** Not definitively present on this slice.
+  - **Subchondral cyst (geode):** Not seen on this slice.
+- **Erosion:** No definite erosion identified on this slice.
+
+#### B) Glenoid fossa / Articular eminence (imaged side)
+- **Cortical outline:** Appears **preserved/continuous** on this slice.
+- **Remodeling / sclerosis:** Not definitively demonstrated on this slice.
+
+#### C) Joint space / condylar position (non-diagnostic for DC/TMD)
+- Apparent joint space can be visually appreciated, but **condylar position and joint space measurements are not DC/TMD diagnostic criteria for DJD** and are highly dependent on occlusion/opening; therefore no diagnostic inference is made from joint space on this limited image.
+
+#### D) Soft tissues / Disc
+- **Articular disc position and morphology:** **Not assessable on CBCT** (requires MRI for DC/TMD disc displacement evaluation).
+
+---
+
+### 4) DC/TMD-Oriented Radiographic Interpretation (Osseous DJD)
+
+**DC/TMD imaging support for DJD typically relies on CBCT evidence of one or more of:**
+- **Osteophyte**
+- **Erosion**
+- **Subchondral sclerosis**
+- **Subchondral cyst**
+
+**Based on the provided single slice:**
+- **Radiographic osseous DJD (DC/TMD support):** **Indeterminate / Not established on this image alone**
+  - Rationale: No definitive osteophyte/erosion/sclerosis/cyst is confirmed on the single displayed section; however limited sampling prevents exclusion of focal changes elsewhere in the condyle/fossa.
+
+---
+
+### 5) Impression
+1. **No definite CBCT evidence of TMJ osseous degenerative joint disease is confirmed on the provided single slice.**  
+2. **Overall TMJ osseous assessment is limited** by availability of only one image; **DJD cannot be excluded** without review of the full CBCT dataset (bilateral, multi-slice evaluation).
+
+---
+
+### 6) Recommendations (DC/TMD-consistent)
+- **If pain/joint sounds/limited opening are present:** Correlate with **DC/TMD clinical examination** (Axis I) to determine whether imaging findings are required for diagnostic confirmation.
+- **For definitive osseous DJD evaluation:** Provide/upload the **full CBCT volume** (both TMJs) or multiplanar reconstructions (corrected sagittal and coronal through medial–central–lateral condyle).
+- **If disc displacement is suspected clinically (clicking/locking):** **MRI** is recommended for **disc position, effusion, and inflammatory changes**, as CBCT does not evaluate the disc.
+
+---
+
+If you upload the **complete CBCT series** (or at least 6–9 sagittal and coronal slices per joint, right and left), I can produce a fully bilateral, DC/TMD-structured report with a confident DJD classification.",3.0,3.0,3.0,3.0,,3.0
+6.png,"## CBCT Temporomandibular Joint (TMJ) Report — Structured to DC/TMD Imaging Criteria  
+**Role:** Oral & Maxillofacial Radiology (CBCT-based osseous TMJ assessment)  
+**Material provided:** Single CBCT TMJ image (sagittal/oblique slice). *Comprehensive DC/TMD imaging assessment ideally requires full bilateral TMJ CBCT dataset in closed- and (if available) open-mouth positions.*
+
+---
+
+### 1) Clinical Information  
+- **Indication (provided):** Not stated.  
+- **Relevant DC/TMD symptom targets to correlate clinically:** TMJ pain with function, joint noises (click/crepitus), limitation/deviation, intermittent locking.
+
+---
+
+### 2) Technique / Image Quality  
+- **Modality:** Cone Beam CT (CBCT)  
+- **Region:** TMJ osseous components (condyle–glenoid fossa/articular eminence)  
+- **Limitations:** Interpretation is limited by provision of a single slice only (no confirmation across contiguous slices; contralateral joint not available; disc position and effusion cannot be assessed on CBCT).
+
+---
+
+### 3) Findings (Osseous TMJ Assessment per DC/TMD Imaging Concepts)
+
+#### A. Condylar Head (side not specified from the single image)  
+- **Morphology/contour:** Mild superior surface flattening/remodeling.  
+- **Cortical integrity:** Cortical outline appears largely continuous on this slice; no definite cortical break identified.  
+- **Subchondral bone:** Suggestion of mild subchondral sclerosis adjacent to the superior articular surface on the provided slice.  
+- **Osteophyte:** No definite marginal osteophyte seen on this single image.  
+- **Subchondral cyst:** No definite subchondral cystic change identified on this slice.  
+- **Erosion:** No definite erosion seen on this slice (note: erosion requires confirmation on multiple adjacent slices).
+
+#### B. Temporal Component (Glenoid fossa / Articular eminence)  
+- **Cortical outline:** Appears preserved on this slice.  
+- **Flattening/irregularity:** No definite focal osseous defect identified on this slice.
+
+#### C. Joint Space / Relationship  
+- **Condylar position and joint space:** Grossly maintained on the provided slice; precise assessment requires multiplanar review and comparison with open-mouth position if available.
+
+#### D. Adjacent Osseous Structures  
+- Limited evaluation on the provided slice; no additional focal osseous abnormality is evident within the field shown.
+
+---
+
+### 4) DC/TMD-Oriented Imaging Interpretation (Osseous Diagnoses)  
+**CBCT evaluates osseous changes only. Disc displacement and inflammatory soft-tissue findings require MRI.**
+
+- **Imaging features present:**  
+  - Mild condylar flattening/remodeling ± mild subchondral sclerosis (on the single slice provided).
+
+- **Imaging features NOT definitively demonstrated on the provided slice:**  
+  - Osteophyte, erosion, or subchondral cyst (hallmark findings supporting *degenerative joint disease* on imaging).
+
+**DC/TMD-aligned imaging conclusion (based on the limited image):**  
+- **Findings most consistent with adaptive remodeling / possible osteoarthrosis (remodeling) rather than definite TMJ degenerative joint disease (DJD)** on this limited single-slice review.  
+- **Definite DJD (osteoarthritis/osteoarthrosis imaging-supported)** cannot be confirmed without multiplanar, multi-slice evaluation demonstrating characteristic changes (e.g., osteophyte, erosion, subchondral cyst, more conspicuous sclerosis) and clinical correlation.
+
+---
+
+### 5) Impression (Actionable Summary)  
+1. **Mild superior condylar flattening/remodeling** with **subtle subchondral sclerosis** on the provided CBCT slice.  
+2. **No definite osteophyte, erosion, or subchondral cyst is identified on this single image**; therefore **imaging evidence is insufficient to confirm TMJ DJD** based on DC/TMD imaging concepts.  
+3. **Recommend:**  
+   - Review the **complete bilateral CBCT dataset** (contiguous slices; standardized TMJ reconstructions).  
+   - **Clinical correlation** for DC/TMD symptom criteria (pain with function, crepitus, limitation).  
+   - If internal derangement is suspected (clicking/locking), consider **MRI of TMJs** (closed/open mouth) to assess disc position and joint effusion/synovitis.
+
+---
+
+If you upload the **full CBCT series (both TMJs, multiplanar reconstructions)** and tell me **which side is symptomatic** and whether the scan includes **open-mouth**, I can provide a fully side-by-side **Right/Left DC/TMD-structured report** with higher diagnostic confidence.",2.0,2.0,3.0,2.0,,3.0
+62.png,"## CBCT – Temporomandibular Joint (TMJ) Osseous Assessment  
+**Reporting framework:** DC/TMD (Diagnostic Criteria for Temporomandibular Disorders) – Imaging support for **Degenerative Joint Disease (DJD)** and other osseous TMJ conditions  
+**Modality note:** CBCT evaluates **osseous components** (condyle, temporal component, joint space morphology). **Articular disc position/shape** and **synovitis/effusion** cannot be assessed with CBCT (MRI required).
+
+---
+
+### 1) Clinical Information (to be provided)
+- **Indication:** Suspected TMD / TMJ pain / joint sounds / limited opening (not specified)  
+- **Laterality:** Not specified  
+- **DC/TMD Axis I correlation:** Imaging findings must be interpreted alongside clinical symptoms (pain with function, joint sounds, palpation tenderness, limitation).
+
+---
+
+### 2) Examination / Technique
+- **Study:** Cone Beam CT of TMJ region  
+- **Position:** Not specified (closed/open mouth not provided)  
+- **Reformations reviewed:** Limited single sagittal-type image provided (diagnostic interpretation limited by lack of full dataset and bilateral views).  
+- **Image quality:** Acceptable for gross osseous contour evaluation; limited for comprehensive grading due to single slice.
+
+---
+
+### 3) Findings (Osseous TMJ Structures)
+
+> **Important limitation:** The description below is based only on the supplied image and may not represent the full joint status across the medial/lateral poles or the contralateral TMJ.
+
+#### A. Mandibular condyle (side not labeled)
+- **Condylar head morphology:**  
+  - **Flattening** of the superior articular surface.  
+  - **Cortical irregularity** along the superior surface, suspicious for **surface erosion** (loss of smooth, continuous cortex).
+- **Osteophyte:** No definite marginal osteophyte is confidently identified on this single image (cannot exclude without full multi-slice review).
+- **Subchondral sclerosis/cyst:** Not clearly demonstrated on the provided slice.
+
+#### B. Temporal component (articular eminence / glenoid fossa)
+- Cortical outline appears present; **no definite fracture** or gross destructive change evident on the provided image.  
+- Subtle remodeling cannot be excluded without full dataset.
+
+#### C. Joint space / condylar position (static)
+- Joint space assessment is **limited** (single image; mouth position not specified). No gross dislocation is evident on this view.
+
+#### D. Other osseous conditions
+- **Ankylosis:** No imaging evidence on provided slice.  
+- **Fracture:** No acute fracture line is identified on provided slice.
+
+---
+
+### 4) DC/TMD Imaging-Based Interpretation (Osseous)
+**DC/TMD “Degenerative Joint Disease (DJD)” imaging criteria** are supported by findings such as **erosion, osteophyte, subchondral sclerosis, subchondral cyst, and/or flattening** (remodeling).  
+
+- The observed **condylar flattening with cortical irregularity/possible erosion** is **consistent with TMJ osseous degenerative change**, meeting imaging features compatible with **DJD**.
+
+> **Diagnostic note (DC/TMD):**  
+> - Imaging can support **DJD**.  
+> - Differentiation between **osteoarthritis** vs **osteoarthrosis** depends on **clinical pain history**:  
+>   - **Osteoarthritis (painful DJD):** DJD imaging findings **plus** arthralgia/joint pain clinically.  
+>   - **Osteoarthrosis (non-painful DJD):** DJD imaging findings **without** clinical joint pain.
+
+---
+
+### 5) Impression
+1. **TMJ osseous degenerative change** characterized by **superior condylar flattening** with **cortical irregularity/possible erosion** on the provided image. Findings are **compatible with DC/TMD imaging features of degenerative joint disease (DJD)**.  
+2. No definite evidence of fracture or ankylosis on the provided slice.  
+3. **Study limitation:** Single image provided; comprehensive DC/TMD imaging assessment ideally requires **bilateral TMJ review in multiple planes** (and open/closed mouth series if obtained).
+
+---
+
+### 6) Recommendations
+- **Correlate with DC/TMD Axis I clinical findings** (arthralgia, joint sounds, function limitation) to classify as **osteoarthritis vs osteoarthrosis**.  
+- If internal derangement (disc displacement) or inflammatory changes are suspected clinically, recommend **TMJ MRI** (best for disc position, effusion, synovitis).  
+- If available, provide the **full CBCT dataset (both TMJs, multi-slice MPRs, mouth position)** for a definitive structured bilateral report and grading.
+
+---
+
+If you upload the full CBCT series (axial/coronal/sagittal MPRs for **both** joints, ideally closed and open mouth) and specify the symptomatic side and symptoms (pain vs clicking/crepitus/locking), I can generate a complete **bilateral DC/TMD-aligned** report with higher diagnostic confidence.",4.0,4.0,3.0,3.0,,3.0
+63.png,"## CBCT TMJ Report (DC/TMD-Oriented)
+
+### 1) Study / Technique
+- **Modality:** Cone-beam CT (CBCT) of the temporomandibular joint region  
+- **Reconstructions reviewed:** TMJ-focused multiplanar reconstructions (sagittal emphasis based on provided image)  
+- **Position / functional views:** Not specified (no open/closed-mouth comparison provided)  
+- **Limitations:** CBCT evaluates **osseous** components well but does **not** assess the articular disc or synovitis/effusion; soft-tissue interpretation is limited. This report is based on the **image(s) provided** rather than a complete DICOM volume.
+
+### 2) Clinical Indication (as provided)
+- Not specified. (Report structured for DC/TMD osseous diagnostic support.)
+
+---
+
+## 3) Findings (Osseous TMJ Assessment)
+
+### A. Condyle
+- **Condylar head morphology:** The superior articular surface demonstrates **mild flattening/remodeling**.
+- **Cortical integrity:** **Cortical outline appears largely preserved** on the provided slice; **no definite cortical breakthrough** is identified.
+- **Osteophyte:** **No definite marginal osteophyte** is seen on the provided image.
+- **Subchondral changes:** No clear **subchondral cyst** is identified on the provided image. Subchondral sclerosis cannot be confidently graded from the single slice provided.
+
+### B. Glenoid fossa / Articular eminence
+- **Cortical outline:** Appears preserved on the provided image.  
+- **Erosions/deformity:** No definite erosion or destructive change identified on the provided image.
+
+### C. Joint space (CBCT surrogate)
+- Joint space assessment is **limited** without standardized closed/open-mouth series and full volume review. No gross joint space obliteration is evident on the provided image.
+
+### D. Adjacent osseous structures
+- No aggressive osseous lesion is evident in the limited field shown.
+
+---
+
+## 4) DC/TMD Imaging-Based Interpretation (Osseous Diagnosis Support)
+
+**DC/TMD degenerative joint disease (DJD) imaging features** include: osteophyte, erosion, subchondral cyst, and/or generalized sclerosis, with remodeling/flattening commonly present.
+
+- The provided image demonstrates **mild condylar remodeling/flattening** **without definite osteophyte, erosion, or subchondral cyst**.
+
+**Imaging classification most consistent with (based on provided image):**
+- **Osteoarthrosis (remodeling/inactive DJD) – mild**, *if correlating clinically with TMJ disorder*.
+
+> Note: A diagnosis of **osteoarthritis (active DJD)** typically requires imaging signs such as **erosion** (often with clinical pain/crepitus). Definite erosive change is **not** identified on the provided image.
+
+---
+
+## 5) Impression
+1. **Mild remodeling/flattening of the mandibular condyle** on the imaged side, **without definite erosive change, osteophyte, or subchondral cyst** on the provided slice.  
+2. Findings are most compatible with **mild TMJ osteoarthrosis (DC/TMD: degenerative joint changes—remodeling/inactive pattern)**, **pending clinical correlation**.
+
+---
+
+## 6) Recommendations (DC/TMD Workup Integration)
+- **Clinical correlation** with DC/TMD history and exam (pain location, joint sounds, limitation, provocation tests).  
+- If **disc displacement** or inflammatory intra-articular pathology is suspected (e.g., painful clicking, intermittent locking, suspected effusion): **MRI of the TMJ (closed and open mouth)** is recommended for disc position and joint effusion/synovitis assessment.  
+- If available, review of the **full CBCT volume** and **bilateral TMJs** (standardized views) is recommended to confirm extent and symmetry of degenerative changes.
+
+If you upload the full DICOM series (or at least bilateral sagittal and coronal stacks, closed/open if available), I can provide a complete side-by-side DC/TMD-gradeable TMJ osseous report.",4.0,2.0,4.0,4.0,,4.0
+64.png,"## CBCT Temporomandibular Joint (TMJ) Report — Structured (DC/TMD-aligned)
+
+### 1) Clinical Information
+- **Referral/Indication:** Evaluation of TMJ osseous morphology for suspected temporomandibular disorder (TMD).  
+- **Symptoms/Clinical DC/TMD history:** Not provided (e.g., pain, joint noises, locking, limited opening).
+
+### 2) Imaging Technique
+- **Modality:** Cone Beam CT (CBCT) of TMJ region.  
+- **Reformations reviewed:** Sagittal oblique TMJ slice provided (single image).  
+- **Functional position (open/closed):** Not specified.  
+- **Limitations:** CBCT evaluates **osseous** components and joint space; it **cannot** assess disc position/morphology or synovitis/effusion reliably (MRI is required).
+
+### 3) Image Quality
+- Diagnostic for osseous morphology on the provided slice. Full bilateral assessment is limited because only one TMJ slice/view is available.
+
+---
+
+## 4) Findings (Osseous TMJ Assessment)
+
+> **Side:** Not labeled on the provided image (report pertains to the joint shown).
+
+### A. Mandibular Condyle
+- **Cortical outline:** Irregularity along the **superior articular surface**, with a focal **cortical discontinuity/undercut appearance** consistent with an **erosive change**.
+- **Condylar shape:** **Flattening** of the superior articular surface.
+- **Subchondral bone:** Increased radiodensity beneath the superior surface, compatible with **subchondral sclerosis**.
+- **Osteophyte:** No definite marginal osteophyte is identified on the provided slice.
+- **Subchondral cyst (Ely’s):** No definite subchondral pseudocyst is seen on this slice.
+
+### B. Temporal Component (Glenoid fossa / Articular eminence)
+- **Cortical integrity:** No definite cortical destruction is evident on the provided slice.
+- **Eminence/fossa morphology:** Grossly maintained on the provided view.
+
+### C. Joint Space / Relationship
+- **Joint space:** Appears **reduced superiorly** on the provided slice; exact assessment limited by single-view, unknown mandibular position, and lack of standardized bilateral comparison.
+
+### D. Ancillary Findings
+- **Fracture/ankylosis:** No imaging features of fracture or osseous ankylosis are identified on the provided view.
+- **Adjacent structures:** Limited evaluation on this cropped slice.
+
+---
+
+## 5) DC/TMD Imaging Interpretation (Osseous Diagnoses)
+
+### Imaging criteria relevant to DC/TMD
+- **Degenerative Joint Disease (DJD) / Osteoarthritis–Osteoarthrosis spectrum:** Supported when CBCT demonstrates one or more of the following: **flattening, osteophyte, erosion, subchondral sclerosis, subchondral cysts**.
+
+### This case (based on the provided slice)
+- **Positive osseous DJD features present:**  
+  - **Flattening** (present)  
+  - **Erosion/cortical irregularity** (present)  
+  - **Subchondral sclerosis** (present)  
+- **Overall imaging classification:** **TMJ Degenerative Joint Disease (DJD)** affecting the joint shown.
+
+> **Important DC/TMD note:** CBCT findings alone cannot differentiate *painful osteoarthritis* vs *asymptomatic osteoarthrosis*; that distinction requires clinical correlation (pain on palpation/function, etc.).
+
+---
+
+## 6) Impression
+1. **TMJ Degenerative Joint Disease (DJD)** in the imaged joint, characterized by **superior condylar flattening**, **erosive cortical irregularity**, and **subchondral sclerosis**.  
+2. No definite osteophyte, subchondral cyst, fracture, or osseous ankylosis is identified on the provided slice.
+
+---
+
+## 7) Recommendations
+- **Clinical correlation per DC/TMD:** Correlate with pain on function/palpation, joint noises, and mandibular range-of-motion to classify as **osteoarthritis (painful DJD)** vs **osteoarthrosis (non-painful DJD)**.  
+- **If disc displacement/effusion is suspected (clicking/locking, acute pain):** Recommend **MRI of TMJs** (closed- and open-mouth) for disc position and inflammatory changes.  
+- **For completeness:** Ideally review **bilateral TMJs** with standardized sagittal and coronal oblique reconstructions (closed and open mouth if available).
+
+If you share whether this is right/left, open/closed mouth, and provide the contralateral joint images (or the full CBCT series), I can complete a fully bilateral DC/TMD-style radiology report.",4.0,4.0,4.0,4.0,,4.0
+71.png,"## CBCT Temporomandibular Joint (TMJ) Report — Structured to DC/TMD Imaging Criteria
+
+### 1) Clinical Information
+- **Indication:** TMJ evaluation (osseous component) for suspected temporomandibular disorder (TMD).  
+- **Clinical details provided:** Not supplied (pain, noises, locking, limitation of opening, trauma, systemic arthropathy status unknown).
+
+---
+
+### 2) Examination / Technique
+- **Modality:** Cone Beam CT (CBCT).
+- **Region:** TMJs.
+- **Reconstruction/Planes:** Multiplanar evaluation (sagittal/coronal/axial as available).  
+- **Limitations:** CBCT assesses **osseous morphology**; **disc position/shape and synovitis/effusion are not evaluated** (MRI required).
+
+> *Note:* Only a single representative sagittal slice was provided; full-volume review is assumed for a diagnostic report. If only limited images were acquired/shared, diagnostic confidence decreases.
+
+---
+
+### 3) Osseous Findings (DC/TMD-focused)
+
+#### A. Condyle (evaluated for: flattening, erosion, osteophyte, subchondral sclerosis, subchondral cyst)
+- **Cortical outline:** **Irregularity of the superior condylar cortex** is present on the provided image, most consistent with **cortical erosion** (loss/interruptions of the cortical outline rather than smooth remodeling).
+- **Articular surface shape:** Mild **flattening/remodeling** of the superior condylar surface is suspected.
+- **Osteophyte:** No definite marginal osteophyte is identified on the provided slice.
+- **Subchondral sclerosis:** Not definitively demonstrated on the provided slice.
+- **Subchondral cyst (Ely’s cyst):** None clearly seen.
+
+#### B. Glenoid fossa / Articular eminence
+- **Cortical integrity:** Appears maintained on the provided image; no definite erosive defect identified.
+- **Sclerosis/remodeling:** Not clearly demonstrated on the provided slice.
+- **Pneumatization (if present):** Not assessable from the single image.
+
+#### C. Joint space / Condyle–fossa relationship (static osseous assessment)
+- **Joint space:** Cannot be reliably quantified from a single slice; no obvious gross narrowing or ankylotic change is visible on the provided view.
+- **Translation/dislocation:** Not assessable without open/closed-mouth series or dynamic correlation.
+
+#### D. Additional osseous observations
+- **Fracture:** No fracture is seen on the provided image.
+- **Ankylosis:** No osseous ankylosis identified on the provided image.
+- **Loose bodies/calcifications:** None identified on the provided image.
+
+---
+
+### 4) DC/TMD Imaging Interpretation (Osseous Component)
+DC/TMD CBCT/CT criteria support **Degenerative Joint Disease (DJD)** when one or more of the following are present: **osteophyte, erosion, subchondral cyst, generalized sclerosis**, or **flattening with associated degenerative change**.
+
+- **Meets DC/TMD imaging criteria for TMJ DJD:** **Yes — based on suspected cortical erosion** (degenerative osseous change) on the provided image.  
+- **Confidence level:** **Moderate**, limited by the single provided slice and lack of side labeling/full-volume review.
+
+---
+
+### 5) Impression
+1. **Osseous degenerative change of the TMJ** on the provided view, characterized by **superior condylar cortical irregularity/erosion** with probable mild remodeling/flattening.  
+2. No definite osteophyte, subchondral cyst, ankylosis, or fracture is demonstrated on the provided image.
+
+---
+
+### 6) Recommendations / Correlation (per DC/TMD approach)
+- **Clinical correlation** with DC/TMD Axis I findings (pain with function, joint sounds/crepitus, limitation, deviation) is recommended.
+- If symptoms include **locking, suspected disc displacement, or inflammatory arthropathy**, obtain **MRI of the TMJ (closed and open mouth)** to assess disc position/morphology and joint effusion/synovitis.
+- If systemic inflammatory arthritis is suspected clinically, consider **rheumatologic evaluation** and MRI/contrast imaging as appropriate.
+
+---
+
+If you upload the **full CBCT series** (both TMJs, closed/open if available) and specify **right vs left** plus symptoms, I can provide a side-specific DC/TMD-aligned report with higher diagnostic confidence.",4.0,3.0,4.0,3.0,,3.0
+78.png,"## CBCT TMJ Report (Structured; aligned with DC/TMD imaging descriptors)
+
+**Study:** Cone Beam CT – Temporomandibular Joints (TMJs)  
+**Indication (per referral):** DC/TMD-based assessment for osseous TMJ abnormalities / degenerative joint disease.  
+**Technique:** CBCT evaluation of TMJ osseous components. Review based on the provided sagittal TMJ image(s).  
+**Limitations:** CBCT evaluates **bone**; it does **not** directly assess the articular disc, synovium, effusion, or retrodiscal tissues. Assessment here is limited to the image(s) provided; full-volume multiplanar review and open/closed mouth series (if acquired) would improve diagnostic confidence.
+
+---
+
+## Findings (DC/TMD osseous imaging features)
+
+### Right TMJ
+*(Not provided / not assessable from the submitted image.)*  
+- **Condylar head:** Not assessable.  
+- **Articular eminence/glenoid fossa:** Not assessable.  
+- **Joint space/condylar position:** Not assessable.  
+- **DC/TMD osseous features (flattening, osteophyte, erosion, sclerosis, subchondral cyst):** Not assessable.
+
+### Left TMJ
+**Condylar head (mandibular condyle):**
+- **Articular surface contour:** **Flattening/irregularity** of the superior condylar surface is present.  
+- **Marginal proliferation:** Small **osteophyte-like bony prominence** suggested along the superior/anterior-superior condylar margin on the provided sagittal slice.  
+- **Subchondral bone:** Suggestion of **subchondral sclerosis** adjacent to the articular surface.  
+- **Erosion / subchondral cysts:** No definite subchondral cyst is evident on this single image; focal surface **erosion cannot be excluded** without full multiplanar review.
+
+**Temporal component (glenoid fossa/articular eminence):**
+- Cortical outline appears generally maintained on the provided image; no clear focal defect is demonstrated on this slice.
+
+**Joint space / condylar position:**
+- Joint space assessment is limited on a single slice and without standardized closed/open mouth views. No gross dislocation is seen on the provided image.
+
+**Other:**
+- No displaced fracture is identified on the provided image.
+
+---
+
+## DC/TMD Imaging Interpretation (Bone)
+- **Imaging findings consistent with TMJ degenerative bony change (DJD features):** **Present** in the **left** TMJ (flattening with suspected osteophyte and subchondral sclerosis).  
+- **Right TMJ:** **Not assessable** from submitted image(s).
+
+> **Note on DC/TMD diagnostic labeling:** DC/TMD differentiates **osteoarthritis** vs **osteoarthrosis** by incorporating **clinical symptoms (e.g., pain, arthralgia, crepitus) and history**, in addition to imaging. CBCT alone supports **degenerative joint disease (bony changes)** but cannot determine symptom status.
+
+---
+
+## Impression
+1. **Left TMJ:** Osseous changes **most consistent with degenerative joint disease**, characterized by **condylar surface flattening** with suspected **marginal osteophyte formation** and **subchondral sclerosis** (DC/TMD osseous DJD features).  
+2. **Right TMJ:** Not evaluated on the provided image(s).  
+3. **Soft-tissue/internal derangement:** **Disc position and inflammatory soft-tissue changes cannot be assessed by CBCT**; consider **MRI** if disc displacement, effusion, or synovitis is clinically suspected.
+
+---
+
+## Recommendations
+- Correlate with **DC/TMD clinical exam** (pain with function, arthralgia, joint sounds/crepitus, range of motion) to classify as **osteoarthritis (painful)** vs **osteoarthrosis (non-painful)**.  
+- If symptoms/signs suggest internal derangement: **TMJ MRI** (closed/open mouth) is recommended.
+
+If you can upload the **full CBCT series (both joints; MPR views)** and specify whether scans are **closed-mouth and open-mouth**, I can provide a complete right/left joint report with higher confidence and a more definitive DC/TMD imaging checklist.",1.0,2.0,2.0,3.0,,3.0
+84.png,"## CBCT Temporomandibular Joint (TMJ) Report — Structured (DC/TMD Imaging-Oriented)
+
+> **Important limitation:** Only a single TMJ CBCT slice/image was provided. A DC/TMD-oriented radiology interpretation ideally requires review of the **entire bilateral CBCT volume** (multiplanar reconstructions in sagittal/coronal/axial planes, closed- and—if acquired—open-mouth positions). Findings and diagnostic categorization below are therefore **provisional** and confined to what is visible on the submitted image.
+
+---
+
+### 1) Examination
+**Study:** CBCT TMJ (osseous evaluation)  
+**Technique:** Multiplanar assessment limited to the provided image.  
+**Soft tissues/disc:** **Not assessable** on CBCT (disc position/shape cannot be diagnosed; MRI is required).
+
+---
+
+### 2) Clinical Information
+**Indication:** Not provided (e.g., pain, joint sounds, limitation, locking).  
+**DC/TMD note:** Imaging supports/clarifies **Degenerative Joint Disease (DJD)** but does **not** diagnose pain-related entities (arthralgia) without clinical correlation.
+
+---
+
+### 3) Findings (Osseous TMJ)
+
+#### A. TMJ side depicted (single joint shown; side not labeled)
+**Condylar head (mandibular condyle):**
+- **Articular surface contour:** Mild **flattening** of the superior/anterosuperior articular surface is suggested on this slice.
+- **Cortical integrity:** Cortex appears **largely intact** on the provided section; no definite full-thickness cortical break seen.
+- **Subchondral bone:** Mild **subchondral sclerosis** is suggested.
+- **Osteophyte:** **No definite marginal osteophyte** is demonstrated on this single slice.
+- **Erosion:** **No definite erosion** is demonstrated on this single slice.
+- **Subchondral cyst (pseudocyst):** No definite subchondral cystic change identified on this slice.
+
+**Temporal component (glenoid fossa/articular eminence):**
+- Cortical outline appears intact on the provided section.
+- Mild remodeling/sclerosis cannot be excluded; no definite erosive defect seen on this slice.
+
+**Joint space/condylar position:**
+- Accurate joint space assessment and condylar position (anterior/centric/posterior) requires standardized closed-mouth MPR review; **not reliably determinable** from the single image provided.
+
+---
+
+### 4) DC/TMD Imaging Interpretation (Osseous Component)
+
+DC/TMD imaging-based categories commonly applied to CBCT/CT:
+
+- **Normal / No DJD:** No degenerative osseous features.
+- **Indeterminate for DJD:** **Flattening and/or subchondral sclerosis** without definite osteophyte/erosion/subchondral cyst.
+- **DJD present (Osteoarthritis/Osteoarthrosis):** **Osteophyte and/or erosion and/or subchondral cyst** (often with flattening/sclerosis).
+
+**Based on the submitted image only:**  
+- The visible joint demonstrates **flattening ± mild subchondral sclerosis**, **without definite osteophyte, erosion, or subchondral cyst** on this slice.  
+➡ **DC/TMD imaging classification (provisional): _Indeterminate for Degenerative Joint Disease_** (i.e., remodeling/early degenerative change cannot be excluded).
+
+---
+
+### 5) Impression
+1. **Single TMJ image shows mild condylar remodeling** (flattening with possible mild subchondral sclerosis).  
+2. **No definite CBCT evidence of established DJD** (no clear osteophyte, erosion, or subchondral cyst on the provided slice).  
+3. **Disc position and inflammatory synovial changes are not assessable on CBCT**; consider **MRI** if internal derangement (clicking/locking) or inflammatory arthropathy is suspected clinically.
+
+---
+
+### 6) Recommendations
+- If DC/TMD diagnostic assignment is required, correlate with:
+  - **Clinical exam** (pain on palpation/loading; joint sounds such as crepitus; range of motion; locking history).
+  - **Full bilateral CBCT dataset** review (to confirm/deny osteophyte, erosion, cysts across slices).
+- **MRI TMJs** (closed/open mouth) if symptoms suggest **disc displacement** or if pain persists without clear osseous explanation.
+
+---
+
+If you upload the **full CBCT series** (or at least **bilateral sagittal and coronal MPRs in closed mouth**, and open-mouth views if available), I can issue a definitive **right vs left** DC/TMD-aligned osseous report with confidence grading and side-specific diagnostic categorization.",2.0,2.0,3.0,3.0,,3.0
+85.png,"## CBCT Temporomandibular Joint (TMJ) Report — Structured per DC/TMD Imaging Concepts
+
+### 1) Examination
+**Modality:** Cone Beam CT (CBCT)  
+**Region:** TMJ (single TMJ image provided; laterality cannot be confirmed from the submitted image alone)  
+**Clinical information:** Not provided (pain/function symptoms unknown)
+
+### 2) Technique / Image Quality
+CBCT evaluation of osseous components of the TMJ. Image quality appears diagnostic for bony morphology.  
+**Limitations:** CBCT does **not** evaluate the articular disc, synovium, joint effusion, marrow edema, or inflammatory activity. Disc displacement diagnoses per DC/TMD require clinical exam and/or MRI.
+
+---
+
+## 3) Findings (Osseous TMJ)
+
+### A. Mandibular Condyle
+- **Contour / shape:** **Flattening and contour irregularity** of the superior condylar surface are present.  
+- **Cortical integrity:** **Focal cortical irregularity** consistent with **erosive remodeling** (small surface discontinuities/roughening).  
+- **Subchondral bone:** **Subchondral sclerosis** is suggested adjacent to the articular surface.  
+- **Osteophyte:** No definite marginal osteophyte is confidently identified on this single view (cannot exclude without multiplanar review).  
+- **Subchondral cysts:** None clearly visualized on the provided image.
+
+### B. Glenoid Fossa / Articular Eminence (Temporal Component)
+- The temporal articular surface appears grossly intact on this view; subtle remodeling cannot be excluded given limited data.
+
+### C. Joint Space / Condylar Position
+- Joint space assessment is limited on a single static slice and without standardized open/closed-mouth series. No definitive statement can be made regarding condylar translation or centricity.
+
+---
+
+## 4) DC/TMD-Oriented Imaging Assessment
+### Imaging evidence of **TMJ Degenerative Joint Disease (DJD)**
+The observed **flattening**, **surface irregularity/erosion**, and **subchondral sclerosis** are **imaging features consistent with TMJ DJD**.
+
+- **If the patient has TMJ pain modified by jaw function and/or palpation** → these imaging findings can support **DC/TMD “TMJ Osteoarthritis”** (clinical + imaging).  
+- **If the patient does not have TMJ pain** → these imaging findings correspond to **DC/TMD “TMJ Osteoarthrosis”** (imaging degenerative change without pain).
+
+---
+
+## 5) Impression
+1. **Degenerative osseous change of the TMJ** on the imaged side, characterized by **condylar flattening with erosive remodeling and subchondral sclerosis** — **consistent with TMJ degenerative joint disease (DJD)**.  
+2. **Disc position and inflammatory soft-tissue changes cannot be assessed on CBCT**; consider **MRI** if internal derangement (disc displacement) or active inflammatory arthropathy is clinically suspected.  
+3. Recommend correlation with **DC/TMD clinical examination** to classify as **osteoarthritis vs osteoarthrosis** and to document symptom modifiers (function-related pain, joint sounds, limitation).
+
+---
+
+If you share whether this is right/left TMJ and whether open/closed-mouth volumes were acquired, I can finalize laterality, joint space/translation comments, and provide a more complete bilateral DC/TMD-aligned report.",4.0,4.0,4.0,4.0,,4.0
+86.png,"## CBCT Temporomandibular Joint (TMJ) Report — Structured per DC/TMD Imaging Concepts
+
+### Patient / Study
+- **Patient:** [Name / ID]
+- **Date:** [DD-MMM-YYYY]
+- **Referring provider:** [Name]
+- **Clinical indication (DC/TMD context):** TMJ symptoms / suspected intra-articular disorder; assess osseous components for **TMJ degenerative joint disease (DJD)** or other bony abnormalities.  
+- **Clinical data provided:** [Pain (Y/N), side, duration, locking/clicking, limited opening, trauma history]
+
+---
+
+### Technique
+- **Modality:** Cone Beam CT of TMJs
+- **Acquisition:** [Bilateral TMJs], [closed-mouth only / closed and open-mouth] (as provided)
+- **Reconstruction planes reviewed:** Sagittal and coronal reformats; axial overview.
+- **Technical limitations:** CBCT evaluates **osseous morphology** and mineralized structures; **disc position/shape and joint effusion cannot be assessed** (MRI required for disc/soft tissue evaluation).
+
+---
+
+### Findings (Osseous TMJ Assessment)
+
+> **Note:** Only a single sagittal TMJ image was provided and side labeling is not visible. Findings below apply to the imaged joint.
+
+#### 1) Mandibular Condyle
+- **Condylar head shape/contour:** Mild **superior surface flattening** with **irregular cortical outline**.
+- **Cortical integrity:** Focal **cortical irregularity consistent with superficial erosion** (no displaced fracture line identified).
+- **Subchondral bone:** Mild **subchondral sclerosis** suspected adjacent to the articular surface.  
+- **Osteophyte:** No definite marginal osteophyte is confidently identified on the provided slice.
+- **Subcortical cysts (geodes):** Not clearly seen on the provided image.
+
+#### 2) Temporal Component (Glenoid Fossa / Articular Eminence)
+- **Cortical outline:** Appears maintained on the provided slice; no definite erosive defect identified.
+- **Pneumatization:** Temporal bone air cells/pneumatization adjacent to the articular region are present (incidental; clinical relevance depends on surgical planning).
+
+#### 3) Joint Space / Condylar Position (Static, if only closed-mouth)
+- **Joint space:** Mild alteration/asymmetry of the superior joint space cannot be excluded on a single slice; overall appears preserved.
+- **Condylar position:** Static position assessment is limited without standardized multi-slice review and open-mouth series.
+
+#### 4) Ancillary / Adjacent Findings
+- No radiographic evidence on the provided image of:
+  - **Ankylosis**
+  - **Large osteochondral loose bodies**
+  - **Aggressive osseous lesion**
+  - **Acute displaced fracture**
+
+---
+
+### DC/TMD-Oriented Imaging Interpretation
+- **Osseous findings are most consistent with:** **TMJ Degenerative Joint Disease (DJD), mild** (radiographic osteoarthrosis pattern) based on **flattening and cortical irregularity/erosion** of the condylar articular surface.
+- **Disc displacement (with/without reduction):** **Not assessable on CBCT**.
+- **Inflammatory activity (osteoarthritis vs osteoarthrosis):** CBCT alone cannot determine active inflammation; correlation with **pain on function/palpation** is required.
+
+---
+
+### Impression
+1. **Mild TMJ degenerative osseous change (DJD/osteoarthrosis pattern)** in the imaged joint, characterized by **superior condylar flattening with focal cortical irregularity/erosion** (no definite osteophyte on the provided slice).  
+2. No CT evidence on the provided image of fracture, ankylosis, or aggressive osseous pathology.
+
+---
+
+### Recommendations
+- **Clinical correlation using DC/TMD exam** (pain with jaw function, palpation findings, joint sounds, limitation).  
+- If **locking, suspected internal derangement, or persistent pain**: **MRI of TMJs** (closed/open mouth) to evaluate disc position/morphology and joint effusion/synovitis.  
+- If you share the **full CBCT dataset (bilateral TMJs; closed/open mouth if available)** and the **symptomatic side**, I can provide a complete right/left comparative report and severity grading.",4.0,4.0,3.0,3.0,,3.0
+87.png,"## CBCT TMJ Report (Structured; DC/TMD-aligned)
+
+**Study type:** Cone Beam CT (CBCT) – Temporomandibular joint (TMJ) osseous assessment  
+**Clinical history/indication:** Not provided (please correlate with DC/TMD clinical findings: pain, joint noises, locking, limited opening, deviation).  
+**Acquisition/technical notes:** Interpretation based on the image(s) provided. If this represents a limited dataset (e.g., single slice, single joint, closed-mouth only), diagnostic confidence is reduced—particularly for condylar position symmetry, joint space assessment, and side-to-side comparison.
+
+---
+
+# 1) Osseous TMJ Findings (DC/TMD Imaging Domains)
+
+## A. Mandibular condyle
+**Evaluated joint/side:** *Side not specified on the provided image.*
+
+- **Condylar head morphology:** Irregular superior articular contour with **flattening** of the superior surface.  
+- **Cortical integrity:** **Focal cortical irregularity/erosion** suspected along the superior articular surface (discontinuity/roughening of cortex).  
+- **Subchondral bone:** **Mild subchondral sclerosis** beneath the articular surface (increased trabecular density adjacent to cortex).  
+- **Osteophyte:** No definite marginal osteophyte is identified on the provided image.  
+- **Subchondral cyst (geode):** No definite subchondral cystic change identified.
+
+## B. Temporal component (glenoid fossa / articular eminence)
+- **Cortical outline:** Appears grossly preserved on the provided image; no definite erosion identified.  
+- **Sclerosis:** Not clearly demonstrated.
+
+## C. Joint space / condyle–fossa relationship
+- **Joint space:** Not reliably quantifiable from the provided image alone (and may vary with occlusion and slice position).  
+- **Condylar position (closed mouth):** Not determinable with confidence without full sagittal/coronal series and contralateral comparison.
+
+## D. Ancillary findings
+- **Fracture/destructive lesion:** No aggressive osseous destruction or fracture is evident on the provided image.  
+- **Soft tissues/disc:** CBCT does **not** evaluate the articular disc; MRI is required for DC/TMD disc displacement assessment.
+
+---
+
+# 2) DC/TMD-Oriented Imaging Impression
+
+### Imaging impression (osseous)
+**Findings are most consistent with TMJ Degenerative Joint Disease (DJD)** based on **condylar flattening with suspected articular surface erosion and mild subchondral sclerosis**.
+
+### DC/TMD diagnostic labeling (imaging component)
+- **TMJ DJD (Degenerative Joint Disease) present** on the imaged side.  
+- **Osteoarthritis vs. osteoarthrosis:** CBCT alone cannot distinguish these; DC/TMD requires **clinical correlation** (e.g., pain with joint palpation/function and/or inflammatory signs) to classify:
+  - **Osteoarthritis** (DJD + clinical arthralgia/inflammatory features), vs  
+  - **Osteoarthrosis** (DJD without clinical inflammatory pain).
+
+---
+
+# 3) Recommendations (as applicable)
+1. **Correlate with DC/TMD clinical exam** (arthralgia, crepitus, range of motion, functional limitation).  
+2. If disc displacement/effusion is suspected clinically (locking, reciprocal clicks, acute pain), recommend **MRI TMJ (closed/open mouth)**.  
+3. If only a limited image was provided, recommend reviewing the **complete CBCT series** (bilateral, multiplanar) for definitive side labeling, extent grading, and comparison.
+
+---
+
+If you upload the full CBCT series (right/left; closed and open mouth if available) and provide symptoms (pain/no pain, noises, locking, maximum opening), I can issue a bilateral DC/TMD-aligned report with higher diagnostic confidence and side-specific conclusions.",3.0,3.0,3.0,3.0,,3.0
+89.png,"## CBCT TMJ Report (Structured; aligned with DC/TMD imaging criteria)
+
+### 1) Clinical information
+- **Indication (provided):** DC/TMD-based evaluation of temporomandibular joint (TMJ).
+- **Symptoms/history:** Not provided (pain, noises/crepitus, locking, trauma, systemic arthritis status unknown).
+
+### 2) Imaging technique
+- **Modality:** Cone-beam CT (CBCT).
+- **Views reviewed:** Limited submission—single sagittal TMJ slice/image only (side and mouth position not provided).
+- **Primary limitation:** CBCT **does not evaluate the articular disc or joint effusion**; DC/TMD disc diagnoses require MRI and clinical exam. Limited slice set restricts assessment of condylar translation and comprehensive bilateral comparison.
+
+### 3) Image quality
+- Diagnostic for osseous morphology on the provided image.
+
+---
+
+## 4) Findings (osseous; DC/TMD imaging descriptors)
+
+### A. TMJ (side indeterminate on provided image)
+**Mandibular condyle**
+- **Articular surface morphology:** **Flattening** of the superior condylar surface with **cortical irregularity**.
+- **Cortical integrity:** Focal **cortical discontinuity/erosion** along the superior articular surface is suspected on this slice.
+- **Subcortical bone:** Mild **subchondral sclerosis** present.
+- **Subchondral defects:** Small **subchondral radiolucency compatible with a cyst (Ely’s cyst)** is suggested on the articular aspect of the condylar head (appearance consistent with a degenerative subchondral defect).
+
+**Temporal component (glenoid fossa / articular eminence)**
+- No definite osseous defect is evident on this single slice; subtle reactive sclerosis cannot be excluded.
+
+**Joint space**
+- Appears **reduced superiorly** on this image; exact assessment limited without standardized closed-/open-mouth series.
+
+**Osteophyte**
+- A discrete marginal osteophyte is **not definitively demonstrated** on this single slice.
+
+---
+
+## 5) DC/TMD-oriented interpretation (Imaging component)
+Based on the provided CBCT slice, the osseous findings are **most consistent with TMJ degenerative joint disease (DJD)**.
+
+- **DC/TMD imaging features of DJD present:**  
+  - **Erosion** (suspected) and **subchondral sclerosis**  
+  - **Flattening** (not specific alone, but supportive with other degenerative findings)  
+  - **Possible subchondral cyst**
+
+> Note: Under DC/TMD, **imaging can support “DJD/osteoarthritis”** when degenerative osseous changes are present. **Clinical designation of “osteoarthritis” vs “osteoarthrosis”** depends on symptoms (e.g., pain) and exam findings; CBCT alone cannot determine pain status.
+
+---
+
+## 6) Impression
+1. **TMJ degenerative joint disease (DJD) / osteoarthritic change** on the imaged joint, characterized by **condylar flattening, cortical irregularity/erosion, subchondral sclerosis, and possible small subchondral cyst**.  
+2. **Articular disc status cannot be assessed with CBCT.** If DC/TMD disc displacement (with/without reduction) or inflammatory arthropathy is clinically suspected, **MRI TMJs (closed and open mouth)** is recommended.
+
+---
+
+## 7) Recommendations / correlation (DC/TMD workflow)
+- Correlate with **DC/TMD clinical exam** (pain on palpation/loading, joint sounds/crepitus, range of motion, locking history).
+- Consider **MRI** if: locking/clicking suggests disc displacement, persistent pain suggests active synovitis/arthritis, or pre-treatment planning requires disc position evaluation.
+- If systemic inflammatory arthropathy is suspected clinically, consider rheumatologic correlation and laboratory work-up as appropriate.
+
+---
+
+If you upload the **full CBCT series** (bilateral TMJs, standardized closed- and open-mouth reconstructions) and specify **laterality and mouth position**, I can provide a complete **right vs left** DC/TMD-oriented CBCT report including condylar position/translation and more confident characterization of osteophytes, cysts, and temporal bone changes.",3.0,2.0,3.0,4.0,,4.0
+90.png,"## CBCT TMJ Report (Structured; aligned with DC/TMD imaging criteria)
+
+**Patient:** ____________________  **DOB/ID:** ____________________  
+**Referring clinician:** ____________________  **Date:** ____________________  
+**Study:** CBCT of the temporomandibular joints (TMJs)  
+**Clinical indication (per referral):** ____________________ (e.g., TMJ pain, joint sounds, limited opening, suspected degenerative joint disease)
+
+---
+
+### 1) Technique / Image quality
+- **Modality:** Cone Beam CT (CBCT)  
+- **Coverage:** TMJ region (condyle–glenoid fossa–articular eminence)  
+- **Reconstructions reviewed:** Multiplanar (axial/coronal/sagittal) and cross-sectional views (as available).  
+- **Limitations:** CBCT assesses **osseous morphology**; disc position/effusion/synovitis are **not** reliably evaluated (MRI recommended when internal derangement is suspected).  
+- **Note:** Interpretation below is based on the provided image(s); a complete read ideally requires full bilateral TMJ volumetric dataset.
+
+---
+
+### 2) Findings (Osseous TMJ evaluation)
+
+#### A. Condylar head (cortical outline and morphology)
+- **Cortical integrity:** Appears **continuous** on the provided view; **no definite cortical break** identified.  
+- **Articular surface contour:** No definite **osteophyte** or **marked flattening** is demonstrated on the provided image.  
+- **Trabecular pattern:** No focal aggressive osseous lesion is evident on the provided view.  
+- **Subchondral changes:**  
+  - **Erosion:** Not clearly identified.  
+  - **Subchondral sclerosis:** Not definitively identified.  
+  - **Subchondral cyst (geode):** Not identified.
+
+#### B. Temporal component (glenoid fossa / articular eminence)
+- **Cortical outline:** No definite erosion or irregularity is seen on the provided view.  
+- **Pneumatization/adjacent air cells:** Mastoid/temporal air cells appear aerated where visible (within the limited field shown).
+
+#### C. Joint space / condylar position (osseous approximation only)
+- Joint space assessment on CBCT is **limited** and must be correlated with clinical exam and standardized imaging protocol. No gross bony ankylosis is seen on the provided view.
+
+#### D. Additional osseous findings
+- No additional focal osseous abnormality is identified within the provided image.
+
+---
+
+### 3) DC/TMD Imaging-Based Assessment (Degenerative Joint Disease)
+**DC/TMD CBCT/CT features supporting DJD include:** osteophyte, erosion, subchondral sclerosis, subchondral cyst, and/or generalized condylar flattening (in appropriate clinical context).
+
+- **Imaging signs of TMJ Degenerative Joint Disease (DJD):** **Not demonstrated** on the provided image(s).  
+- **Imaging impression per DC/TMD:**
+  - **No radiographic evidence of TMJ DJD (osteoarthritis/osteoarthrosis) on the provided view.**
+
+> *Reminder (DC/TMD concept):* “Osteoarthritis” implies **DJD with pain/arthralgia clinically**, while “osteoarthrosis” may describe **DJD changes without pain**. CBCT can support the bony DJD component; the pain component is clinical.
+
+---
+
+### 4) Impression
+1. **No definite CBCT evidence of osseous TMJ degenerative change** (no visible osteophyte, erosion, subchondral sclerosis, or subchondral cyst) on the provided image(s).  
+2. If the patient has **joint sounds, locking, or suspected disc displacement**, recommend **MRI TMJ (closed/open mouth)** for disc position and joint effusion assessment.  
+3. Correlate with **DC/TMD Axis I clinical examination** to finalize the diagnostic category (e.g., arthralgia, myalgia, headache attributed to TMD, disc displacement disorders).
+
+---
+
+### 5) Recommendations (optional, based on clinical scenario)
+- **MRI** if internal derangement is suspected (clicking/locking/limited opening) or if symptoms persist despite conservative therapy.  
+- Consider **bilateral standardized TMJ CBCT review** (full volume) if only partial images were available.
+
+---
+
+If you share the **full bilateral CBCT volume** (or specify right vs left, mouth position, and provide sagittal/coronal slices for both joints), I can issue a definitive **side-specific** DC/TMD-aligned report (Right TMJ / Left TMJ) with a graded description of osseous DJD features.",2.0,2.0,2.0,3.0,,3.0
+91.png,"## CBCT TMJ Report (Structured; aligned with DC/TMD imaging terminology)
+
+### 1) Clinical information
+- **Indication / symptoms:** Not provided.  
+- **Study material available for review:** Single sagittal CBCT slice of one TMJ region (laterality and full volumetric dataset not provided).
+
+### 2) Technique
+- **Modality:** Cone Beam Computed Tomography (CBCT).  
+- **Views assessed:** Limited to the provided sagittal reconstruction.  
+- **Limitations:** Assessment of bilateral symmetry, condylar position across multiple slices, and subtle osseous changes is **limited** without the complete CBCT volume and without open-/closed-mouth series.
+
+---
+
+## 3) Findings (TMJ—side not specified)
+
+### A. Mandibular condyle (osseous morphology)
+- **Condylar head contour:** **Mild superior surface flattening** noted.
+- **Cortical integrity:** No definite displaced fracture line identified on the provided image.
+- **Subchondral bone:** **Mild subchondral sclerosis** suspected at the superior condylar surface (appearance consistent with increased cortical density).
+- **Osteophyte:** **Not clearly demonstrated** on this slice.
+- **Erosion:** **No definite focal cortical erosion** confirmed on this slice (limited evaluation).
+- **Subchondral cyst (geode):** **Not seen** on the provided slice.
+
+### B. Temporal component (glenoid fossa / articular eminence)
+- **Cortical outline:** Appears grossly maintained on the provided slice.
+- **Degenerative temporal changes (flattening/sclerosis/erosion):** **No definite changes** identified on this single image (limited).
+
+### C. Joint space / condyle–fossa relationship
+- **Joint space:** Present; **no clear bony ankylosis** on the provided slice.
+- **Condylar position:** Cannot be reliably categorized (anterior/centric/posterior) from a single slice without standardized closed-mouth multiplanar review.
+
+### D. Additional findings
+- None assessable from the limited image provided.
+
+---
+
+## 4) DC/TMD-oriented imaging impression
+**Findings are most consistent with:**
+- **TMJ Degenerative Joint Disease (DJD)—mild / early osseous changes (osteoarthrosis pattern)** on the imaged side, based on **condylar flattening** with suspected **subchondral sclerosis**, and without definite osteophyte, erosion, or subchondral cyst on the provided slice.
+
+> **DC/TMD note:** Imaging features alone support “DJD (osteoarthrosis)” (structural changes) and require clinical correlation to determine “osteoarthritis” (DJD **with** pain/arthralgia).
+
+---
+
+## 5) Recommendations
+1. **Correlate clinically** with DC/TMD Axis I findings (TMJ pain/arthralgia, joint noises—especially crepitus, and function limitation).  
+2. If internal derangement/disc displacement is suspected, **MRI of the TMJ** (closed and open mouth) is recommended for disc position, joint effusion, and inflammatory changes.  
+3. If available, review the **complete bilateral CBCT volume** (multiplanar, both TMJs) to better grade DJD features and assess symmetry and condylar position.
+
+---
+
+If you upload the full CBCT series (both TMJs; closed-mouth ± open-mouth) and indicate right/left, I can generate a complete bilateral DC/TMD-style report with grading of DJD features and condylar position.",4.0,4.0,4.0,3.0,,4.0
+94.png,"## CBCT TMJ Report (Structured; DC/TMD-aligned)
+
+> **Important note on available data:** Only a single sagittal CBCT slice of one TMJ is provided, and laterality (right vs left) cannot be confirmed from the image alone. The report below applies to the **imaged TMJ** only. A complete DC/TMD imaging assessment ideally includes **both TMJs** reviewed in **multiplanar reconstructions** (sagittal and coronal) with open/closed-mouth views when available.
+
+---
+
+### 1) Examination
+**Study:** CBCT – Temporomandibular Joint (osseous evaluation)  
+**Primary purpose (DC/TMD imaging domain):** Assessment for osseous TMJ degenerative change (DJD) and condylar morphology.  
+**Soft tissues/disc:** Not evaluated on CBCT (MRI is required for disc position/morphology).
+
+---
+
+### 2) Technique / Image Quality
+- **Modality:** Cone Beam CT  
+- **Planes reviewed (based on provided image):** Sagittal section  
+- **Image quality:** Diagnostic for osseous structures on provided slice; limited by single-image submission (no full joint survey).
+
+---
+
+### 3) Findings (Imaged TMJ)
+
+#### A. Mandibular condyle (head/neck)
+- **Condylar head contour:** **Superior surface flattening** (loss of normal convexity).
+- **Cortical integrity:** **Cortical irregularity** along the superior articular surface, suspicious for **early erosion** on the provided slice.
+- **Subchondral bone:** No definite subchondral cyst identified on this single slice. Degree of subchondral sclerosis cannot be reliably graded without additional slices/planes.
+
+#### B. Temporal component (glenoid fossa / articular eminence)
+- On the provided slice, the articular surface of the temporal component appears **grossly intact** without a definite osteophyte or clear focal erosion. Full assessment limited.
+
+#### C. Joint space / condylar position (osseous joint space surrogate)
+- Joint space evaluation and condylar position (centricity/anterior/posterior) **cannot be reliably concluded** from a single sagittal slice without standardized reference slices and typically closed-mouth positioning documentation.
+
+---
+
+### 4) DC/TMD Imaging Interpretation (Osseous)
+
+**DC/TMD—Degenerative Joint Disease (DJD) imaging features include** (examples): osteophyte, erosion, subchondral sclerosis, subchondral cyst, generalized sclerosis, deformity; *flattening alone may represent remodeling rather than DJD.*
+
+- **Imaging impression for the imaged TMJ:**  
+  **Findings are most consistent with TMJ degenerative osseous change (DJD),** based on **flattening with cortical irregularity suspicious for erosion.**
+
+> **DC/TMD diagnostic linkage (clinical correlation required):**  
+> - If the patient has **TMJ arthralgia/pain on function and/or palpation** on this side → **Osteoarthritis** (DJD with pain).  
+> - If **no pain** but imaging shows DJD features → **Osteoarthrosis** (DJD without pain).  
+> (CBCT supports the *imaging component*; the OA vs osteoarthrosis distinction is made clinically.)
+
+---
+
+### 5) Impression
+1. **Imaged TMJ:** **Osseous degenerative change (DJD)** characterized by **superior condylar flattening** and **cortical irregularity suspicious for erosion** on the provided sagittal section.  
+2. **No definite subchondral cyst or osteophyte** is confirmed on this single slice; full-joint multiplanar review is recommended for complete characterization.
+
+---
+
+### 6) Recommendations
+- **Correlate with DC/TMD clinical findings** (arthralgia, crepitus, pain with function) to classify as **osteoarthritis vs osteoarthrosis**.  
+- If internal derangement/disc displacement is suspected clinically: **MRI TMJ** (closed and open mouth) for disc position and joint effusion/synovitis.  
+- For a complete radiology report: submit **full CBCT dataset** including **both TMJs** with multiplanar review.
+
+---
+
+If you tell me **right vs left**, whether the scan is **closed-mouth/open-mouth**, and provide **both TMJs (full volume or key slices in sagittal + coronal planes)**, I can finalize a complete bilateral DC/TMD-structured report with side-specific diagnoses and severity descriptors.",4.0,4.0,3.0,4.0,,3.0
+97.png,"## CBCT TMJ Report (Structured; DC/TMD-aligned)
+
+### 1) Examination / Technique
+- **Study:** Cone Beam CT (CBCT) of the temporomandibular joint region  
+- **Reformations:** Multiplanar evaluation (sagittal/coronal/axial) assumed; **interpretation below is limited to the single provided TMJ slice**.
+- **Mouth position:** Not documented (closed/open not confirmed).
+- **Image quality:** Diagnostic for osseous contours on the provided view; **limited overall study assessment due to incomplete image set**.
+
+### 2) Clinical Indication
+- Not provided. (If available, include: pain location, joint sounds, locking, restricted opening, trauma history, systemic arthropathy risk.)
+
+---
+
+## 3) Osseous TMJ Findings (DC/TMD Imaging Targets)
+
+### A) Right TMJ (as visualized on provided sagittal slice)
+**Condylar head (mandibular condyle)**
+- **Morphology:** Mild **superior surface flattening**.
+- **Cortical integrity:** **Focal superior cortical irregularity** suspicious for **early erosion** (vs. remodeling change depending on full-volume confirmation).
+- **Subchondral bone:** No definite subchondral cyst identified on this slice; sclerosis cannot be reliably graded from the single image but may be present adjacent to the superior cortex.
+
+**Temporal component (glenoid fossa / articular eminence)**
+- Cortical outline appears **grossly intact** on the provided view.
+- No definite temporal osteophyte or erosion seen on this slice.
+
+**Joint space / condylar position**
+- True joint-space compartment assessment (anterior/superior/posterior) and condylar position require full closed-mouth dataset and standardized measurements; **not reliably determinable from the single slice**.
+
+**Other**
+- No evidence of fracture line, ankylosis, or mass effect on the provided image.
+
+---
+
+### B) Left TMJ
+- **Not available / not assessable** from the submitted image.
+
+---
+
+## 4) DC/TMD-Oriented Imaging Interpretation
+**Right TMJ:**
+- The combination of **condylar flattening** with **suspected focal cortical erosion** is most consistent with **degenerative joint disease (DJD)** on imaging, pending confirmation on the complete CBCT volume and correlation with symptoms.
+
+**Left TMJ:**
+- Not assessed.
+
+---
+
+## 5) Impression
+1. **Right TMJ:** Osseous changes characterized by **mild superior condylar flattening** and **possible focal cortical erosion**, **suggestive of early degenerative joint disease (DJD)** (DC/TMD imaging category), **limited by single-slice review**.  
+2. **No radiographic evidence on the provided slice** of fracture, ankylosis, or aggressive osseous lesion.  
+3. **Left TMJ:** Not evaluated (images not provided).
+
+---
+
+## 6) Recommendations (DC/TMD Use Context)
+- **Correlate with DC/TMD clinical findings** (pain with function, joint sounds, limitation/locking, palpation tenderness).  
+- If internal derangement (disc displacement) is a clinical concern, note that **CBCT does not evaluate disc position**; consider **MRI TMJ** (closed/open mouth).  
+- For definitive CBCT DJD reporting, provide/assess **bilateral TMJ volumes** in standardized closed-mouth (and optional open-mouth) positions.
+
+If you upload the full CBCT series (or at least bilateral TMJ sagittal and coronal stacks in closed mouth ± open mouth), I can issue a complete bilateral DC/TMD-style report with side-by-side staging of DJD features (flattening, sclerosis, osteophytes, erosions, subchondral cysts) and condylar position/joint-space comments.",4.0,4.0,3.0,3.0,,4.0
+98.png,"## CBCT Temporomandibular Joint (TMJ) Report — Structured per DC/TMD (Imaging Component)
+
+### Patient / Study
+- **Modality:** Cone Beam CT (CBCT)
+- **Study provided:** Single TMJ region image/slice (limited dataset provided; full CBCT volume, side labeling, and acquisition parameters not available)
+- **Clinical indication:** Not provided
+
+---
+
+## Technique / Image Quality
+- **Assessment basis:** Osseous TMJ evaluation only (CBCT does **not** assess articular disc position/shape or inflammatory synovitis).
+- **Limitations:** Interpretation is constrained by receipt of a **single cropped slice** rather than multiplanar review of the full bilateral TMJ volume (sagittal/coronal/axial with thin slices).
+
+---
+
+## Findings (Osseous TMJ)
+
+### 1) Condyle / Temporal Component (side undetermined from provided image)
+**Condylar head and neck**
+- **Contour:** Mild **superior surface flattening** is suggested.
+- **Cortical integrity:** Appears largely **preserved** on the provided slice; no definite cortical break is demonstrated.
+- **Osteophyte:** No unequivocal marginal osteophyte is identifiable on this single image.
+- **Subchondral bone:** Mild **subchondral sclerosis** is suggested (relative increase in subcortical radiodensity), though confirmation requires full-volume review.
+- **Subchondral cysts (pseudocysts):** None clearly seen on this slice.
+
+**Articular eminence / Glenoid fossa**
+- Limited visualization; no definite erosive defect is evident on the provided slice.
+
+**Joint space**
+- Joint space assessment is **not reliable** from a single slice and without standardized closed-mouth positioning information.
+
+---
+
+## DC/TMD Imaging Interpretation (Osseous Diagnoses)
+
+### A. Degenerative Joint Disease (DJD) — DC/TMD Imaging Criteria
+DC/TMD imaging-based DJD is supported by one or more of: **osteophyte**, **erosion**, **subchondral sclerosis**, **subchondral cyst**, and/or **generalized sclerosis/flattening** (with clinical correlation).
+
+- **Findings consistent with remodeling/degenerative change:**  
+  - **Possible condylar flattening** ± **mild subchondral sclerosis**
+- **Findings of active osseous degeneration (erosion):**  
+  - **Not definitively demonstrated** on the provided slice
+
+**DC/TMD imaging impression (provisional due to limited dataset):**
+- **TMJ Degenerative Joint Disease—most consistent with osteoarthrosis (stable remodeling)** *if flattening/sclerosis are confirmed on multiplanar review and no erosions are present.*
+- **Osteoarthritis (active DJD)** cannot be confirmed on the provided image because **definite erosion** is not identified.
+
+---
+
+## Impression (Summary)
+1. **Osseous TMJ remodeling changes are suspected** (mild condylar flattening with possible subchondral sclerosis) on the provided image.  
+2. **No definite erosions, osteophytes, or subchondral cysts** are confirmed on this single slice.  
+3. **Disc position and internal derangement cannot be evaluated with CBCT**; MRI is required if DC/TMD disc displacement diagnoses are clinically suspected.
+
+---
+
+## Recommendations
+- **If full CBCT volume is available:** review bilateral TMJs in corrected sagittal and coronal reconstructions to confirm/grade DJD features (flattening, osteophyte, erosion, sclerosis, cyst).  
+- **If symptoms suggest internal derangement (clicking/locking) or inflammatory arthralgia:** consider **MRI of TMJs** (closed and open mouth) for DC/TMD disc displacement assessment.  
+- Correlate with **DC/TMD clinical examination** (pain with function, joint sounds, limited opening, palpation tenderness) to finalize the DC/TMD diagnosis.
+
+---
+
+If you upload the **full CBCT series (DICOM) or representative bilateral sagittal + coronal slices with side labels**, I can provide a definitive **right vs left** DC/TMD-aligned osseous diagnosis and severity grading.",4.0,4.0,3.0,4.0,,3.0

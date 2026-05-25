@@ -1,0 +1,4 @@
+﻿Model,Internal_Accuracy,External_Accuracy,Internal_AUC,External_AUC,Internal_AUC_CI,External_AUC_CI
+Gemini-3,0.9028,0.9,0.8969,0.9,0.822-0.962,0.828-0.968
+GPT-5.2,0.75,0.7429,0.7406,0.7429,0.644-0.843,0.643-0.842
+Qwen3,0.5556,0.5286,0.5344,0.5286,0.429-0.648,0.418-0.636

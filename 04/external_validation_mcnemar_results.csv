@@ -1,0 +1,4 @@
+﻿Model_1,Model_2,Both_Correct,M1_Correct_M2_Wrong,M1_Wrong_M2_Correct,Both_Wrong,Discordant,McNemar_Exact_P,Significant_p<0.05
+Gemini-3,GPT-5.2,48,15,4,3,19,0.0192108154296875,Yes
+Gemini-3,Qwen3,33,30,4,3,34,6.16488978266716e-06,Yes
+GPT-5.2,Qwen3,29,23,8,10,31,0.010673840530216694,Yes

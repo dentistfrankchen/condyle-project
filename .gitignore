@@ -1,0 +1,16 @@
+# Environment
+.venv/
+venv/
+
+# Secrets
+*.env
+*.key
+
+# Python cache
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
+*.png

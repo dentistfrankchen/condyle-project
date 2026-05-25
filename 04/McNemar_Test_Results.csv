@@ -1,0 +1,4 @@
+﻿Model 1,Model 2,p-value,Significant
+GPT-5.2,Gemini-3-pro-preview,0.0266,Yes
+GPT-5.2,Qwen3-VL-235b,0.0094,Yes
+Gemini-3-pro-preview,Qwen3-VL-235b,0.0000,Yes

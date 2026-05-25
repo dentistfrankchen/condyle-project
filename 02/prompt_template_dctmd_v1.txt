@@ -1,0 +1,1 @@
+You are now a senior expert in oral and maxillofacial radiology. Write a structured CBCT report based on DC/TMD diagnostic criteria.
