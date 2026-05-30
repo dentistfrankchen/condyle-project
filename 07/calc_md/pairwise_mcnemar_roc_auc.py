@@ -5,7 +5,6 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 from scipy.stats import binomtest
-from sklearn.metrics import auc, roc_curve
 
 
 ROOT = Path(__file__).resolve().parents[2]
@@ -88,27 +87,37 @@ def merge_all_models(normal_dir: Path):
     return merged
 
 
-def bootstrap_auc_ci(y_true, y_score, n_bootstrap=2000, alpha=0.95, random_state=42):
+def bootstrap_balanced_accuracy_ci(y_true, y_score, n_bootstrap=2000, alpha=0.95, random_state=42):
+    """Bootstrap CI for balanced accuracy."""
     rng = np.random.default_rng(random_state)
     y_true = np.asarray(y_true)
     y_score = np.asarray(y_score)
     n = len(y_true)
 
-    aucs = []
+    stats_list = []
     for _ in range(n_bootstrap):
         idx = rng.integers(0, n, n)
         yt = y_true[idx]
-        ys = y_score[idx]
-        if len(np.unique(yt)) < 2:
-            continue
-        fpr, tpr, _ = roc_curve(yt, ys)
-        aucs.append(auc(fpr, tpr))
+        yp = np.rint(y_score[idx]).astype(int)
+        tp = int(((yt == 1) & (yp == 1)).sum())
+        tn = int(((yt == 0) & (yp == 0)).sum())
+        fp = int(((yt == 0) & (yp == 1)).sum())
+        fn = int(((yt == 1) & (yp == 0)).sum())
 
-    if not aucs:
+        pos = tp + fn
+        neg = tn + fp
+        if pos == 0 or neg == 0:
+            continue
+
+        sens = tp / pos
+        spec = tn / neg
+        stats_list.append(0.5 * (sens + spec))
+
+    if not stats_list:
         return np.nan, np.nan
 
-    lower = np.percentile(aucs, (1 - alpha) / 2 * 100)
-    upper = np.percentile(aucs, (1 + alpha) / 2 * 100)
+    lower = np.percentile(stats_list, (1 - alpha) / 2 * 100)
+    upper = np.percentile(stats_list, (1 + alpha) / 2 * 100)
     return float(lower), float(upper)
 
 
@@ -127,9 +136,8 @@ def model_metrics(df):
         sens = tp / (tp + fn) if (tp + fn) else np.nan
         spec = tn / (tn + fp) if (tn + fp) else np.nan
 
-        fpr, tpr, _ = roc_curve(y_true, y_pred)
-        auc_val = auc(fpr, tpr)
-        ci_low, ci_high = bootstrap_auc_ci(y_true, y_pred)
+        ba_val = (sens + spec) / 2
+        ci_low, ci_high = bootstrap_balanced_accuracy_ci(y_true, y_pred)
 
         rows.append(
             {
@@ -142,9 +150,9 @@ def model_metrics(df):
                 "Accuracy": round(acc, 4),
                 "Sensitivity": round(sens, 4),
                 "Specificity": round(spec, 4),
-                "AUC": round(float(auc_val), 4),
-                "AUC_95CI_L": round(ci_low, 4),
-                "AUC_95CI_U": round(ci_high, 4),
+                "Balanced_Accuracy": round(float(ba_val), 4),
+                "Balanced_Accuracy_95CI_L": round(ci_low, 4),
+                "Balanced_Accuracy_95CI_U": round(ci_high, 4),
             }
         )
     return pd.DataFrame(rows)
@@ -221,37 +229,6 @@ def plot_mcnemar_tables(mcnemar_df: pd.DataFrame, output_path: Path):
     plt.close(fig)
 
 
-def plot_roc_curves(df: pd.DataFrame, metrics_df: pd.DataFrame, output_path: Path):
-    plt.figure(figsize=(7, 6), dpi=160)
-    y_true = df["y_true"].values
-
-    for model_name in MODEL_FILES:
-        y_score = df[model_name].values
-        fpr, tpr, _ = roc_curve(y_true, y_score)
-        row = metrics_df.loc[metrics_df["Model"] == model_name].iloc[0]
-        plt.plot(
-            fpr,
-            tpr,
-            linewidth=2,
-            label=(
-                f"{model_name}: AUC={row['AUC']:.3f} "
-                f"(95% CI {row['AUC_95CI_L']:.3f}-{row['AUC_95CI_U']:.3f})"
-            ),
-        )
-
-    plt.plot([0, 1], [0, 1], linestyle="--", color="gray", label="Chance")
-    plt.xlim([0, 1])
-    plt.ylim([0, 1])
-    plt.xlabel("False Positive Rate")
-    plt.ylabel("True Positive Rate")
-    plt.title("ROC Curves by Model")
-    plt.legend(loc="lower right", fontsize=9)
-    plt.grid(alpha=0.25)
-    plt.tight_layout()
-    plt.savefig(output_path, bbox_inches="tight")
-    plt.close()
-
-
 def main():
     normal_dir = pick_normal_dir()
     df = merge_all_models(normal_dir)
@@ -261,22 +238,19 @@ def main():
 
     metrics_path = OUT_DIR / "Model_Performance_with_AUC_CI.csv"
     mcnemar_path = OUT_DIR / "Pairwise_McNemar_Results.csv"
-    roc_fig_path = OUT_DIR / "ROC_Curves_with_AUC_CI.png"
     mcnemar_fig_path = OUT_DIR / "Pairwise_McNemar_Contingency_Tables.png"
 
     metrics_df.to_csv(metrics_path, index=False, encoding="utf-8-sig")
     mcnemar_df.to_csv(mcnemar_path, index=False, encoding="utf-8-sig")
 
-    plot_roc_curves(df, metrics_df, roc_fig_path)
     plot_mcnemar_tables(mcnemar_df, mcnemar_fig_path)
 
     print("Analysis complete. Output files:")
     print(f"- {metrics_path}")
     print(f"- {mcnemar_path}")
-    print(f"- {roc_fig_path}")
     print(f"- {mcnemar_fig_path}")
 
-    print("\nModel Performance (AUC with 95% CI):")
+    print("\nModel Performance (Balanced Accuracy with 95% CI):")
     print(metrics_df.to_string(index=False))
 
     print("\nPairwise McNemar Test Results:")

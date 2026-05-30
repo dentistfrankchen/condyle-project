@@ -1,41 +1,49 @@
 """
 External Validation Set Analysis Script
-Computes diagnostic performance metrics for the external validation cohort (70 cases).
-Outputs results in the same format as the internal validation set.
+Computes diagnostic performance metrics for the external validation cohort (70 cases),
+using balanced accuracy and its bootstrap 95% CI.
 """
 
 import pandas as pd
 import numpy as np
 from pathlib import Path
 from scipy import stats
-from sklearn.metrics import confusion_matrix, auc, roc_curve
 import itertools
 
 ROOT = Path(__file__).resolve().parent
 DATA_FILE = ROOT / 'external_validation_data.csv'
 
-def bootstrap_auc_ci(y_true, y_score, n_bootstrap=2000, alpha=0.95, random_state=42):
-    """Compute AUC 95% Bootstrap CI."""
+def bootstrap_balanced_accuracy_ci(y_true, y_score, n_bootstrap=2000, alpha=0.95, random_state=42):
+    """Compute bootstrap CI for balanced accuracy."""
     rng = np.random.default_rng(random_state)
     y_true = np.asarray(y_true)
     y_score = np.asarray(y_score)
     n = len(y_true)
 
-    aucs = []
+    stats_list = []
     for _ in range(n_bootstrap):
         idx = rng.integers(0, n, n)
         yt = y_true[idx]
-        ys = y_score[idx]
-        if len(np.unique(yt)) < 2:
-            continue
-        fpr, tpr, _ = roc_curve(yt, ys)
-        aucs.append(auc(fpr, tpr))
+        yp = np.rint(y_score[idx]).astype(int)
+        tp = int(((yt == 1) & (yp == 1)).sum())
+        tn = int(((yt == 0) & (yp == 0)).sum())
+        fp = int(((yt == 0) & (yp == 1)).sum())
+        fn = int(((yt == 1) & (yp == 0)).sum())
 
-    if not aucs:
+        pos = tp + fn
+        neg = tn + fp
+        if pos == 0 or neg == 0:
+            continue
+
+        sens = tp / pos
+        spec = tn / neg
+        stats_list.append(0.5 * (sens + spec))
+
+    if not stats_list:
         return np.nan, np.nan
 
-    lower = np.percentile(aucs, (1 - alpha) / 2 * 100)
-    upper = np.percentile(aucs, (1 + alpha) / 2 * 100)
+    lower = np.percentile(stats_list, (1 - alpha) / 2 * 100)
+    upper = np.percentile(stats_list, (1 + alpha) / 2 * 100)
     return float(lower), float(upper)
 
 def calculate_confidence_interval(proportion, n, confidence=0.95):
@@ -66,9 +74,8 @@ def model_metrics(df):
         sens = tp / (tp + fn) if (tp + fn) else np.nan
         spec = tn / (tn + fp) if (tn + fp) else np.nan
 
-        fpr, tpr, _ = roc_curve(y_true, y_pred)
-        auc_val = auc(fpr, tpr)
-        ci_low, ci_high = bootstrap_auc_ci(y_true, y_pred)
+        ba_val = (sens + spec) / 2
+        ci_low, ci_high = bootstrap_balanced_accuracy_ci(y_true, y_pred)
 
         rows.append(
             {
@@ -81,9 +88,9 @@ def model_metrics(df):
                 'Accuracy': round(acc, 4),
                 'Sensitivity': round(sens, 4),
                 'Specificity': round(spec, 4),
-                'AUC': round(float(auc_val), 4),
-                'AUC_95CI_L': round(ci_low, 4),
-                'AUC_95CI_U': round(ci_high, 4),
+                'Balanced_Accuracy': round(float(ba_val), 4),
+                'Balanced_Accuracy_95CI_L': round(ci_low, 4),
+                'Balanced_Accuracy_95CI_U': round(ci_high, 4),
             }
         )
     
@@ -150,7 +157,7 @@ def main():
     metrics_df.to_csv(metrics_output, index=False, encoding='utf-8-sig')
     mcnemar_df.to_csv(mcnemar_output, index=False, encoding='utf-8-sig')
     
-    print("\nModel Performance (AUC with 95% Bootstrap CI):")
+    print("\nModel Performance (Balanced Accuracy with 95% Bootstrap CI):")
     print(metrics_df.to_string(index=False))
     
     print("\n\nPairwise McNemar Test Results:")
@@ -170,10 +177,10 @@ def main():
         'Model': metrics_df['Model'],
         'Internal_Accuracy': internal_metrics['Accuracy'].values,
         'External_Accuracy': metrics_df['Accuracy'].values,
-        'Internal_AUC': internal_metrics['AUC'].values,
-        'External_AUC': metrics_df['AUC'].values,
-        'Internal_AUC_CI': [f"{row['AUC_95CI_L']:.3f}-{row['AUC_95CI_U']:.3f}" for _, row in internal_metrics.iterrows()],
-        'External_AUC_CI': [f"{row['AUC_95CI_L']:.3f}-{row['AUC_95CI_U']:.3f}" for _, row in metrics_df.iterrows()],
+        'Internal_Balanced_Accuracy': internal_metrics['Balanced_Accuracy'].values,
+        'External_Balanced_Accuracy': metrics_df['Balanced_Accuracy'].values,
+        'Internal_Balanced_Accuracy_CI': [f"{row['Balanced_Accuracy_95CI_L']:.3f}-{row['Balanced_Accuracy_95CI_U']:.3f}" for _, row in internal_metrics.iterrows()],
+        'External_Balanced_Accuracy_CI': [f"{row['Balanced_Accuracy_95CI_L']:.3f}-{row['Balanced_Accuracy_95CI_U']:.3f}" for _, row in metrics_df.iterrows()],
     })
     
     print(comparison.to_string(index=False))

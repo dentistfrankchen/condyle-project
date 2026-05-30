@@ -1,4 +1,4 @@
-﻿Model,N,TP,TN,FP,FN,Accuracy,Sensitivity,Specificity,AUC,AUC_95CI_L,AUC_95CI_U
+﻿Model,N,TP,TN,FP,FN,Accuracy,Sensitivity,Specificity,Balanced_Accuracy,Balanced_Accuracy_95CI_L,Balanced_Accuracy_95CI_U
 Gemini-3,72,27,38,2,5,0.9028,0.8438,0.95,0.8969,0.8219,0.9615
 GPT-5.2,72,21,33,7,11,0.75,0.6562,0.825,0.7406,0.6444,0.8427
 Qwen3,72,11,29,11,21,0.5556,0.3438,0.725,0.5344,0.4286,0.6483
